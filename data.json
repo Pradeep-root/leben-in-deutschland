@@ -1,0 +1,264 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "text_de": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+      "options": {
+        "A": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+        "B": "Der Staat muss sich nicht an die Gesetze halten.",
+        "C": "Nur Deutsche müssen die Gesetze befolgen.",
+        "D": "Die Gerichte machen die Gesetze."
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General"
+    },
+    {
+      "id": 2,
+      "text_de": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am …",
+      "options": {
+        "A": "Politikunterricht teilnimmt.",
+        "B": "Sprachunterricht teilnimmt.",
+        "C": "Religionsunterricht teilnimmt.",
+        "D": "Sportunterricht teilnimmt."
+      },
+      "correct_answer": "C",
+      "category": "Society",
+      "bundesland": "General"
+    },
+    {
+      "id": 3,
+      "text_de": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden?",
+      "options": {
+        "A": "Wahlfreiheit für alle Fächer.",
+        "B": "Anspruch auf Schulgeld.",
+        "C": "Recht auf unbegrenzte Freizeit.",
+        "D": "Religionsfreiheit."
+      },
+      "correct_answer": "D",
+      "category": "Constitution",
+      "bundesland": "General"
+    },
+    {
+      "id": 4,
+      "text_de": "Was ist die DDR?",
+      "options": {
+        "A": "Ein deutscher Rundfunk.",
+        "B": "Die ehemalige Deutsche Demokratische Republik.",
+        "C": "Ein Fernsehsender.",
+        "D": "Eine politische Partei."
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General"
+    },
+    {
+      "id": 5,
+      "text_de": "Wer wählt in Deutschland den Bundeskanzler oder die Bundeskanzlerin?",
+      "options": {
+        "A": "Der Bundespräsident.",
+        "B": "Das Volk direkt.",
+        "C": "Der Bundestag.",
+        "D": "Die Bundesversammlung."
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General"
+    },
+    {
+      "id": 6,
+      "text_de": "Was bedeutet die Abkürzung EU?",
+      "options": {
+        "A": "Europäische Union.",
+        "B": "Einheitliche Umwelt.",
+        "C": "Europäische Unternehmen.",
+        "D": "Einheitliche Universität."
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General"
+    },
+    {
+      "id": 7,
+      "text_de": "Welches Symbol steht für die Währung Euro?",
+      "options": {
+        "A": "$",
+        "B": "£",
+        "C": "€",
+        "D": "¥"
+      },
+      "correct_answer": "C",
+      "category": "Economy",
+      "bundesland": "General"
+    },
+    {
+      "id": 8,
+      "text_de": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Adler",
+        "B": "Löwe",
+        "C": "Bär",
+        "D": "Pferd"
+      },
+      "correct_answer": "A",
+      "category": "Symbols",
+      "bundesland": "General"
+    },
+    {
+      "id": 9,
+      "text_de": "Wann war die Wiedervereinigung Deutschlands?",
+      "options": {
+        "A": "1989",
+        "B": "1990",
+        "C": "1991",
+        "D": "1992"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General"
+    },
+    {
+      "id": 10,
+      "text_de": "Wie heißt das Grundgesetz in Deutschland?",
+      "options": {
+        "A": "Verfassung",
+        "B": "Gesetzbuch",
+        "C": "Grundgesetz",
+        "D": "Bundesgesetz"
+      },
+      "correct_answer": "C",
+      "category": "Constitution",
+      "bundesland": "General"
+    },
+    {
+      "id": 11,
+      "text_de": "Welche Farben hat die deutsche Flagge?",
+      "options": {
+        "A": "Schwarz-Rot-Gold",
+        "B": "Rot-Weiß-Grün",
+        "C": "Blau-Weiß-Rot",
+        "D": "Schwarz-Weiß-Rot"
+      },
+      "correct_answer": "A",
+      "category": "Symbols",
+      "bundesland": "General"
+    },
+    {
+      "id": 12,
+      "text_de": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Bundeskanzler / Bundeskanzlerin",
+        "B": "Bundespräsident / Bundespräsidentin",
+        "C": "Bundesratspräsident / Bundesratspräsidentin",
+        "D": "Bundestagspräsident / Bundestagspräsidentin"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General"
+    },
+    {
+      "id": 13,
+      "text_de": "Was ist die Hauptstadt von Deutschland?",
+      "options": {
+        "A": "München",
+        "B": "Hamburg",
+        "C": "Berlin",
+        "D": "Köln"
+      },
+      "correct_answer": "C",
+      "category": "Geography",
+      "bundesland": "General"
+    },
+    {
+      "id": 14,
+      "text_de": "Welches Gericht in Deutschland ist für Streitigkeiten zwischen Arbeitnehmer und Arbeitgeber zuständig?",
+      "options": {
+        "A": "Verfassungsgericht",
+        "B": "Arbeitsgericht",
+        "C": "Sozialgericht",
+        "D": "Verwaltungsgericht"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General"
+    },
+    {
+      "id": 15,
+      "text_de": "Was bedeutet die Abkürzung BRD?",
+      "options": {
+        "A": "Bundesrepublik Deutschland",
+        "B": "Bayerische Republik Deutschland",
+        "C": "Berliner Republik Deutschland",
+        "D": "Bundesregierung Deutschland"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General"
+    },
+    {
+      "id": 301,
+      "text_de": "Welches Bundesland hat mit ca. 2000 km Küstenlinie die längste Küste an der Ostsee?",
+      "options": {
+        "A": "Schleswig-Holstein",
+        "B": "Mecklenburg-Vorpommern",
+        "C": "Niedersachsen",
+        "D": "Hamburg"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Mecklenburg-Vorpommern"
+    },
+    {
+      "id": 311,
+      "text_de": "Welches ist ein Wahrzeichen der Stadt München in Bayern?",
+      "options": {
+        "A": "Brandenburger Tor",
+        "B": "Frauenkirche",
+        "C": "Kölner Dom",
+        "D": "Schloss Neuschwanstein"
+      },
+      "correct_answer": "B",
+      "category": "Culture",
+      "bundesland": "Bayern"
+    },
+    {
+      "id": 321,
+      "text_de": "Welches ist ein bekanntes Industriezentrum in Nordrhein-Westfalen?",
+      "options": {
+        "A": "Ruhrgebiet",
+        "B": "Schwarzwald",
+        "C": "Odenwald",
+        "D": "Eifel"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "Nordrhein-Westfalen"
+    },
+    {
+      "id": 331,
+      "text_de": "Welches ist ein bekanntes Wahrzeichen von Baden-Württemberg?",
+      "options": {
+        "A": "Schloss Heidelberg",
+        "B": "Schloss Neuschwanstein",
+        "C": "Brandenburger Tor",
+        "D": "Kölner Dom"
+      },
+      "correct_answer": "A",
+      "category": "Culture",
+      "bundesland": "Baden-Württemberg"
+    },
+    {
+      "id": 341,
+      "text_de": "Welches ist die größte Universität in Berlin?",
+      "options": {
+        "A": "Freie Universität Berlin",
+        "B": "Humboldt-Universität zu Berlin",
+        "C": "Technische Universität Berlin",
+        "D": "Universität der Künste Berlin"
+      },
+      "correct_answer": "B",
+      "category": "Education",
+      "bundesland": "Berlin"
+    }
+  ]
+}
