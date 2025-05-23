@@ -2,263 +2,703 @@
   "questions": [
     {
       "id": 1,
+      "text_de": "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil ...",
+      "options": {
+        "A": "hier Religionsfreiheit gilt.",
+        "B": "die Menschen Steuern zahlen.",
+        "C": "die Menschen das Wahlrecht haben.",
+        "D": "hier Meinungsfreiheit gilt."
+      },
+      "correct_answer": "D",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Verified with BAMF catalog; Meinungsfreiheit is a Grundrecht under Article 5."
+    },
+    {
+      "id": 2,
+      "text_de": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am ...",
+      "options": {
+        "A": "Geschichtsunterricht teilnimmt.",
+        "B": "Religionsunterricht teilnimmt.",
+        "C": "Politikunterricht teilnimmt.",
+        "D": "Sprachunterricht teilnimmt."
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog confirms parents can opt out of Religionsunterricht until age 14."
+    },
+    {
+      "id": 3,
       "text_de": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
       "options": {
-        "A": "Alle Einwohner / Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+        "A": "Alle Einwohnerinnen/Einwohner und der Staat müssen sich an die Gesetze halten.",
         "B": "Der Staat muss sich nicht an die Gesetze halten.",
         "C": "Nur Deutsche müssen die Gesetze befolgen.",
         "D": "Die Gerichte machen die Gesetze."
       },
       "correct_answer": "A",
       "category": "Constitution",
-      "bundesland": "General"
-    },
-    {
-      "id": 2,
-      "text_de": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am …",
-      "options": {
-        "A": "Politikunterricht teilnimmt.",
-        "B": "Sprachunterricht teilnimmt.",
-        "C": "Religionsunterricht teilnimmt.",
-        "D": "Sportunterricht teilnimmt."
-      },
-      "correct_answer": "C",
-      "category": "Society",
-      "bundesland": "General"
-    },
-    {
-      "id": 3,
-      "text_de": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden?",
-      "options": {
-        "A": "Wahlfreiheit für alle Fächer.",
-        "B": "Anspruch auf Schulgeld.",
-        "C": "Recht auf unbegrenzte Freizeit.",
-        "D": "Religionsfreiheit."
-      },
-      "correct_answer": "D",
-      "category": "Constitution",
-      "bundesland": "General"
+      "bundesland": "General",
+      "note": "BAMF catalog; Rechtsstaat principle requires state and citizens to follow laws."
     },
     {
       "id": 4,
-      "text_de": "Was ist die DDR?",
+      "text_de": "Welches Recht gehört zu den Grundrechten in Deutschland?",
       "options": {
-        "A": "Ein deutscher Rundfunk.",
-        "B": "Die ehemalige Deutsche Demokratische Republik.",
-        "C": "Ein Fernsehsender.",
-        "D": "Eine politische Partei."
-      },
-      "correct_answer": "B",
-      "category": "History",
-      "bundesland": "General"
-    },
-    {
-      "id": 5,
-      "text_de": "Wer wählt in Deutschland den Bundeskanzler oder die Bundeskanzlerin?",
-      "options": {
-        "A": "Der Bundespräsident.",
-        "B": "Das Volk direkt.",
-        "C": "Der Bundestag.",
-        "D": "Die Bundesversammlung."
-      },
-      "correct_answer": "C",
-      "category": "Politics",
-      "bundesland": "General"
-    },
-    {
-      "id": 6,
-      "text_de": "Was bedeutet die Abkürzung EU?",
-      "options": {
-        "A": "Europäische Union.",
-        "B": "Einheitliche Umwelt.",
-        "C": "Europäische Unternehmen.",
-        "D": "Einheitliche Universität."
-      },
-      "correct_answer": "A",
-      "category": "Politics",
-      "bundesland": "General"
-    },
-    {
-      "id": 7,
-      "text_de": "Welches Symbol steht für die Währung Euro?",
-      "options": {
-        "A": "$",
-        "B": "£",
-        "C": "€",
-        "D": "¥"
-      },
-      "correct_answer": "C",
-      "category": "Economy",
-      "bundesland": "General"
-    },
-    {
-      "id": 8,
-      "text_de": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
-      "options": {
-        "A": "Adler",
-        "B": "Löwe",
-        "C": "Bär",
-        "D": "Pferd"
-      },
-      "correct_answer": "A",
-      "category": "Symbols",
-      "bundesland": "General"
-    },
-    {
-      "id": 9,
-      "text_de": "Wann war die Wiedervereinigung Deutschlands?",
-      "options": {
-        "A": "1989",
-        "B": "1990",
-        "C": "1991",
-        "D": "1992"
-      },
-      "correct_answer": "B",
-      "category": "History",
-      "bundesland": "General"
-    },
-    {
-      "id": 10,
-      "text_de": "Wie heißt das Grundgesetz in Deutschland?",
-      "options": {
-        "A": "Verfassung",
-        "B": "Gesetzbuch",
-        "C": "Grundgesetz",
-        "D": "Bundesgesetz"
+        "A": "Waffenbesitz",
+        "B": "Faustrecht",
+        "C": "Meinungsfreiheit",
+        "D": "Selbstjustiz"
       },
       "correct_answer": "C",
       "category": "Constitution",
-      "bundesland": "General"
+      "bundesland": "General",
+      "note": "Meinungsfreiheit is protected under Article 5 of the Grundgesetz."
+    },
+    {
+      "id": 5,
+      "text_de": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+      "options": {
+        "A": "Man darf Geld annehmen, wenn man dafür eine bestimmte Kandidatin/einen bestimmten Kandidaten wählt.",
+        "B": "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
+        "C": "Die Wählerin/der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
+        "D": "Alle wahlberechtigten Personen müssen wählen."
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; free elections ensure no coercion or disadvantage."
+    },
+    {
+      "id": 6,
+      "text_de": "Wie heißt die deutsche Verfassung?",
+      "options": {
+        "A": "Volksgesetz",
+        "B": "Bundesgesetz",
+        "C": "Deutsches Gesetz",
+        "D": "Grundgesetz"
+      },
+      "correct_answer": "D",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Grundgesetz is the German constitution, per BAMF."
+    },
+    {
+      "id": 7,
+      "text_de": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf ...",
+      "options": {
+        "A": "Glaubens- und Gewissensfreiheit",
+        "B": "Unterhaltung",
+        "C": "Arbeit",
+        "D": "Wohnung"
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Article 4 guarantees Glaubens- und Gewissensfreiheit."
+    },
+    {
+      "id": 8,
+      "text_de": "Was steht nicht im Grundgesetz von Deutschland?",
+      "options": {
+        "A": "Die Würde des Menschen ist unantastbar.",
+        "B": "Alle sollen gleich viel Geld haben.",
+        "C": "Jeder Mensch darf seine Meinung sagen.",
+        "D": "Alle sind vor dem Gesetz gleich."
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Grundgesetz doesn’t mandate equal wealth."
+    },
+    {
+      "id": 9,
+      "text_de": "Welches Grundrecht gilt in Deutschland nur für Ausländerinnen/Ausländer? Das Grundrecht auf ...",
+      "options": {
+        "A": "Schutz der Familie",
+        "B": "Menschenwürde",
+        "C": "Asyl",
+        "D": "Meinungsfreiheit"
+      },
+      "correct_answer": "C",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Article 16a provides asylum rights for foreigners."
+    },
+    {
+      "id": 10,
+      "text_de": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+      "options": {
+        "A": "die Prügelstrafe",
+        "B": "die Folter",
+        "C": "die Todesstrafe",
+        "D": "die Geldstrafe"
+      },
+      "correct_answer": "D",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; only Geldstrafe is constitutional."
     },
     {
       "id": 11,
-      "text_de": "Welche Farben hat die deutsche Flagge?",
+      "text_de": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
       "options": {
-        "A": "Schwarz-Rot-Gold",
-        "B": "Rot-Weiß-Grün",
-        "C": "Blau-Weiß-Rot",
-        "D": "Schwarz-Weiß-Rot"
+        "A": "Grundgesetz",
+        "B": "Bundesverfassung",
+        "C": "Gesetzbuch",
+        "D": "Verfassungsvertrag"
       },
       "correct_answer": "A",
-      "category": "Symbols",
-      "bundesland": "General"
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Grundgesetz is the official term."
     },
     {
       "id": 12,
-      "text_de": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+      "text_de": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das möglich?",
       "options": {
-        "A": "Bundeskanzler / Bundeskanzlerin",
-        "B": "Bundespräsident / Bundespräsidentin",
-        "C": "Bundesratspräsident / Bundesratspräsidentin",
-        "D": "Bundestagspräsident / Bundestagspräsidentin"
+        "A": "Ja, wenn mehr als die Hälfte der Abgeordneten im Bundestag dafür sind.",
+        "B": "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein.",
+        "C": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden.",
+        "D": "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen."
       },
-      "correct_answer": "B",
-      "category": "Politics",
-      "bundesland": "General"
+      "correct_answer": "C",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Pressefreiheit (Article 5) is inalienable, per BAMF."
     },
     {
       "id": 13,
-      "text_de": "Was ist die Hauptstadt von Deutschland?",
+      "text_de": "Im Parlament steht der Begriff 'Opposition' für ...",
       "options": {
-        "A": "München",
-        "B": "Hamburg",
-        "C": "Berlin",
-        "D": "Köln"
+        "A": "die regierenden Parteien.",
+        "B": "die Fraktion mit den meisten Abgeordneten.",
+        "C": "alle Parteien, die bei der letzten Wahl die 5%-Hürde erreichen konnten.",
+        "D": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören."
       },
-      "correct_answer": "C",
-      "category": "Geography",
-      "bundesland": "General"
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog defines Opposition as non-governing parties."
     },
     {
       "id": 14,
-      "text_de": "Welches Gericht in Deutschland ist für Streitigkeiten zwischen Arbeitnehmer und Arbeitgeber zuständig?",
+      "text_de": "Meinungsfreiheit in Deutschland heißt, dass ich ...",
       "options": {
-        "A": "Verfassungsgericht",
-        "B": "Arbeitsgericht",
-        "C": "Sozialgericht",
-        "D": "Verwaltungsgericht"
+        "A": "Passanten auf der Straße beschimpfen darf.",
+        "B": "meine Meinung in Leserbriefen äußern kann.",
+        "C": "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf.",
+        "D": "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche."
       },
       "correct_answer": "B",
-      "category": "Law",
-      "bundesland": "General"
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Leserbriefe are a protected form of expression, per BAMF."
     },
     {
       "id": 15,
-      "text_de": "Was bedeutet die Abkürzung BRD?",
+      "text_de": "Was verbietet das deutsche Grundgesetz?",
       "options": {
-        "A": "Bundesrepublik Deutschland",
-        "B": "Bayerische Republik Deutschland",
-        "C": "Berliner Republik Deutschland",
-        "D": "Bundesregierung Deutschland"
+        "A": "Militärdienst",
+        "B": "Zwangsarbeit",
+        "C": "freie Berufswahl",
+        "D": "Arbeit im Ausland"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Article 12 prohibits Zwangsarbeit."
+    },
+    {
+      "id": 16,
+      "text_de": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
+      "options": {
+        "A": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+        "B": "bei Meinungsäußerungen über die Bundesregierung",
+        "C": "bei Diskussionen über Religionen",
+        "D": "bei Kritik am Staat"
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Defamation laws limit false statements, per BAMF."
+    },
+    {
+      "id": 17,
+      "text_de": "Die deutschen Gesetze verbieten ...",
+      "options": {
+        "A": "Meinungsfreiheit der Einwohnerinnen und Einwohner.",
+        "B": "Petitionen der Bürgerinnen und Bürger.",
+        "C": "Versammlungsfreiheit der Einwohnerinnen und Einwohner.",
+        "D": "Ungleichbehandlung der Bürgerinnen und Bürger durch den Staat."
+      },
+      "correct_answer": "D",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Article 3 prohibits discrimination by the state."
+    },
+    {
+      "id": 18,
+      "text_de": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+      "options": {
+        "A": "die Unantastbarkeit der Menschenwürde",
+        "B": "das Recht auf Leben",
+        "C": "Religionsfreiheit",
+        "D": "Meinungsfreiheit"
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Article 1 protects Menschenwürde, per BAMF."
+    },
+    {
+      "id": 19,
+      "text_de": "Was versteht man unter dem Recht der 'Freizügigkeit' in Deutschland?",
+      "options": {
+        "A": "Man darf sich seinen Wohnort selbst aussuchen.",
+        "B": "Man kann seinen Beruf wechseln.",
+        "C": "Man darf sich für eine andere Religion entscheiden.",
+        "D": "Man darf sich in der Öffentlichkeit nur leicht bekleidet bewegen."
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Article 11 guarantees Freizügigkeit for choosing residence."
+    },
+    {
+      "id": 20,
+      "text_de": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann ...",
+      "options": {
+        "A": "tolerant.",
+        "B": "rechtsstaatlich orientiert.",
+        "C": "gesetzestreu.",
+        "D": "verfassungswidrig."
+      },
+      "correct_answer": "D",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; anti-democratic parties are unconstitutional."
+    },
+    {
+      "id": 21,
+      "text_de": "Welches ist das Wappen der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "C",
+      "category": "Symbols",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesadler is the wappen, typically Bild 3."
+    },
+    {
+      "id": 22,
+      "text_de": "Was für eine Staatsform hat Deutschland?",
+      "options": {
+        "A": "Monarchie",
+        "B": "Diktatur",
+        "C": "Republik",
+        "D": "Fürstentum"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Germany is a federal republic, per BAMF."
+    },
+    {
+      "id": 23,
+      "text_de": "In Deutschland sind die meisten Erwerbstätigen ...",
+      "options": {
+        "A": "in kleinen Familienunternehmen beschäftigt.",
+        "B": "ehrenamtlich für ein Bundesland tätig.",
+        "C": "selbstständig mit einer eigenen Firma tätig.",
+        "D": "bei einer Firma oder Behörde beschäftigt."
+      },
+      "correct_answer": "D",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; most work for firms or authorities."
+    },
+    {
+      "id": 24,
+      "text_de": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+      "options": {
+        "A": "14",
+        "B": "15",
+        "C": "16",
+        "D": "17"
+      },
+      "correct_answer": "C",
+      "category": "Geography",
+      "bundesland": "General",
+      "note": "Germany has 16 Bundesländer, per BAMF."
+    },
+    {
+      "id": 25,
+      "text_de": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Elsass-Lothringen",
+        "B": "Nordrhein-Westfalen",
+        "C": "Mecklenburg-Vorpommern",
+        "D": "Sachsen-Anhalt"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "General",
+      "note": "Elsass-Lothringen is not a German state."
+    },
+    {
+      "id": 26,
+      "text_de": "Deutschland ist ...",
+      "options": {
+        "A": "eine kommunistische Republik.",
+        "B": "ein demokratischer und sozialer Bundesstaat.",
+        "C": "eine kapitalistische und soziale Monarchie.",
+        "D": "ein sozialer und sozialistischer Bundesstaat."
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Germany is a democratic, social federal state."
+    },
+    {
+      "id": 27,
+      "text_de": "Deutschland ist ...",
+      "options": {
+        "A": "ein sozialistischer Staat.",
+        "B": "ein Bundesstaat.",
+        "C": "eine Diktatur.",
+        "D": "eine Monarchie."
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Germany is a Bundesstaat, per BAMF."
+    },
+    {
+      "id": 28,
+      "text_de": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
+      "options": {
+        "A": "das Militär",
+        "B": "die Wirtschaft",
+        "C": "das wahlberechtigte Volk",
+        "D": "die Verwaltung"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; citizens elect Bundestag members."
+    },
+    {
+      "id": 29,
+      "text_de": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Löwe",
+        "B": "Adler",
+        "C": "Bär",
+        "D": "Pferd"
+      },
+      "correct_answer": "B",
+      "category": "Symbols",
+      "bundesland": "General",
+      "note": "Bundesadler is the wappentier, per BAMF."
+    },
+    {
+      "id": 30,
+      "text_de": "Was ist kein Merkmal unserer Demokratie?",
+      "options": {
+        "A": "regelmäßige Wahlen",
+        "B": "Pressezensur",
+        "C": "Meinungsfreiheit",
+        "D": "verschiedene Parteien"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Pressezensur is anti-democratic, per BAMF."
+    },
+    {
+      "id": 31,
+      "text_de": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland ...",
+      "options": {
+        "A": "Einheit.",
+        "B": "Koalition.",
+        "C": "Ministerium.",
+        "D": "Fraktion."
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Koalition is the term for party collaboration, per BAMF."
+    },
+    {
+      "id": 32,
+      "text_de": "Was ist keine staatliche Gewalt in Deutschland?",
+      "options": {
+        "A": "Gesetzgebung",
+        "B": "Regierung",
+        "C": "Presse",
+        "D": "Rechtsprechung"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Presse is not a state power, per BAMF."
+    },
+    {
+      "id": 33,
+      "text_de": "Welche Aussage ist richtig? In Deutschland ...",
+      "options": {
+        "A": "sind Staat und Religionsgemeinschaften voneinander getrennt.",
+        "B": "bilden die Religionsgemeinschaften den Staat.",
+        "C": "ist der Staat abhängig von den Religionsgemeinschaften.",
+        "D": "bilden Staat und Religionsgemeinschaften eine Einheit."
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Separation of state and religion, per BAMF."
+    },
+    {
+      "id": 34,
+      "text_de": "Was ist Deutschland nicht?",
+      "options": {
+        "A": "eine Demokratie",
+        "B": "ein Rechtsstaat",
+        "C": "eine Monarchie",
+        "D": "ein Sozialstaat"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Germany is not a monarchy, per BAMF."
+    },
+    {
+      "id": 35,
+      "text_de": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+      "options": {
+        "A": "Kirchensteuer",
+        "B": "Sozialabgaben",
+        "C": "Spendengeldern",
+        "D": "Vereinsbeiträgen"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "Sozialabgaben fund social insurance, per BAMF."
+    },
+    {
+      "id": 36,
+      "text_de": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+      "options": {
+        "A": "die Krankenversicherung",
+        "B": "die Autoversicherung",
+        "C": "die Gebäudeversicherung",
+        "D": "die Haftpflichtversicherung"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "Krankenversicherung is part of social security, per BAMF."
+    },
+    {
+      "id": 37,
+      "text_de": "Wie werden die Regierungschefinnen/Regierungschefs der meisten Bundesländer in Deutschland genannt?",
+      "options": {
+        "A": "Erste Ministerin/Erster Minister",
+        "B": "Premierministerin/Premierminister",
+        "C": "Senatorin/Senator",
+        "D": "Ministerpräsidentin/Ministerpräsident"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Ministerpräsident is the term, per BAMF."
+    },
+    {
+      "id": 38,
+      "text_de": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer ...",
+      "options": {
+        "A": "Staatenverbund.",
+        "B": "Bundesstaat.",
+        "C": "Staatenbund.",
+        "D": "Zentralstaat."
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Germany is a Bundesstaat, per BAMF."
+    },
+    {
+      "id": 39,
+      "text_de": "Was hat jedes deutsche Bundesland?",
+      "options": {
+        "A": "eine eigene Außenministerin/einen eigenen Außenminister",
+        "B": "eine eigene Währung",
+        "C": "eine eigene Armee",
+        "D": "eine eigene Regierung"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Each Bundesland has its own government, per BAMF."
+    },
+    {
+      "id": 40,
+      "text_de": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+      "options": {
+        "A": "Völker, hört die Signale ...",
+        "B": "Einigkeit und Recht und Freiheit ...",
+        "C": "Freude schöner Götterfunken ...",
+        "D": "Deutschland einig Vaterland ..."
+      },
+      "correct_answer": "B",
+      "category": "Symbols",
+      "bundesland": "General",
+      "note": "Third stanza of Deutschlandlied, per BAMF."
+    },
+    {
+      "id": 41,
+      "text_de": "Warum gibt es in einer Demokratie mehr als eine Partei?",
+      "options": {
+        "A": "weil dadurch die unterschiedlichen Meinungen der Bürgerinnen und Bürger vertreten werden",
+        "B": "damit Bestechung in der Politik begrenzt wird",
+        "C": "um politische Demonstrationen zu verhindern",
+        "D": "um wirtschaftlichen Wettbewerb anzuregen"
       },
       "correct_answer": "A",
       "category": "Politics",
-      "bundesland": "General"
+      "bundesland": "General",
+      "note": "Multiple parties represent diverse opinions, per BAMF."
     },
     {
-      "id": 301,
-      "text_de": "Welches Bundesland hat mit ca. 2000 km Küstenlinie die längste Küste an der Ostsee?",
+      "id": 42,
+      "text_de": "Wer beschließt in Deutschland ein neues Gesetz?",
       "options": {
-        "A": "Schleswig-Holstein",
-        "B": "Mecklenburg-Vorpommern",
-        "C": "Niedersachsen",
-        "D": "Hamburg"
+        "A": "die Regierung",
+        "B": "das Parlament",
+        "C": "die Gerichte",
+        "D": "die Polizei"
       },
       "correct_answer": "B",
-      "category": "Geography",
-      "bundesland": "Mecklenburg-Vorpommern"
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Bundestag and Bundesrat pass laws, per BAMF."
     },
     {
-      "id": 311,
-      "text_de": "Welches ist ein Wahrzeichen der Stadt München in Bayern?",
+      "id": 43,
+      "text_de": "Wann kann in Deutschland eine Partei verboten werden?",
       "options": {
-        "A": "Brandenburger Tor",
-        "B": "Frauenkirche",
-        "C": "Kölner Dom",
-        "D": "Schloss Neuschwanstein"
+        "A": "wenn ihr Wahlkampf zu teuer ist",
+        "B": "wenn sie gegen die Verfassung kämpft",
+        "C": "wenn sie Kritik am Staatsoberhaupt äußert",
+        "D": "wenn ihr Programm eine neue Richtung vorschlägt"
       },
       "correct_answer": "B",
-      "category": "Culture",
-      "bundesland": "Bayern"
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Anti-constitutional parties can be banned, per BAMF."
     },
     {
-      "id": 321,
-      "text_de": "Welches ist ein bekanntes Industriezentrum in Nordrhein-Westfalen?",
+      "id": 44,
+      "text_de": "Wen kann man als Bürgerin/Bürger in Deutschland nicht direkt wählen?",
       "options": {
-        "A": "Ruhrgebiet",
-        "B": "Schwarzwald",
-        "C": "Odenwald",
-        "D": "Eifel"
+        "A": "Abgeordnete des EU-Parlaments",
+        "B": "Die Bundespräsidentin/den Bundespräsidenten",
+        "C": "Landtagsabgeordnete",
+        "D": "Bundestagsabgeordnete"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Bundespräsident is elected by Bundesversammlung, per BAMF."
+    },
+    {
+      "id": 45,
+      "text_de": "Zu welcher Versicherung gehört die Pflegeversicherung?",
+      "options": {
+        "A": "Sozialversicherung",
+        "B": "Unfallversicherung",
+        "C": "Hausratsversicherung",
+        "D": "Haftpflicht- und Feuerversicherung"
       },
       "correct_answer": "A",
-      "category": "Economy",
-      "bundesland": "Nordrhein-Westfalen"
+      "category": "Society",
+      "bundesland": "General",
+      "note": "Pflegeversicherung is part of Sozialversicherung, per BAMF."
     },
     {
-      "id": 331,
-      "text_de": "Welches ist ein bekanntes Wahrzeichen von Baden-Württemberg?",
+      "id": 46,
+      "text_de": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
       "options": {
-        "A": "Schloss Heidelberg",
-        "B": "Schloss Neuschwanstein",
-        "C": "Brandenburger Tor",
-        "D": "Kölner Dom"
+        "A": "Er baut Straßen und Schulen.",
+        "B": "Er verkauft Lebensmittel und Kleidung.",
+        "C": "Er versorgt alle Einwohnerinnen und Einwohner kostenlos mit Zeitungen.",
+        "D": "Er produziert Autos und Busse."
       },
       "correct_answer": "A",
-      "category": "Culture",
-      "bundesland": "Baden-Württemberg"
+      "category": "Society",
+      "bundesland": "General",
+      "note": "Infrastructure is a state task, per BAMF."
     },
     {
-      "id": 341,
-      "text_de": "Welches ist die größte Universität in Berlin?",
+      "id": 47,
+      "text_de": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
       "options": {
-        "A": "Freie Universität Berlin",
-        "B": "Humboldt-Universität zu Berlin",
-        "C": "Technische Universität Berlin",
-        "D": "Universität der Künste Berlin"
+        "A": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+        "B": "Er zahlt Kindergeld.",
+        "C": "Er unterstützt Museen.",
+        "D": "Er fördert Sportlerinnen und Sportler."
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "State doesn’t fund vacations, per BAMF."
+    },
+    {
+      "id": 48,
+      "text_de": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
+      "options": {
+        "A": "der Bundesrat",
+        "B": "die Bundespräsidentin/der Bundespräsident",
+        "C": "die Bürgerversammlung",
+        "D": "die Regierung"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Bürgerversammlung is not a Verfassungsorgan, per BAMF."
+    },
+    {
+      "id": 49,
+      "text_de": "Wer bestimmt in Deutschland die Schulpolitik?",
+      "options": {
+        "A": "die Lehrer und Lehrerinnen",
+        "B": "die Bundesländer",
+        "C": "das Familienministerium",
+        "D": "die Universitäten"
       },
       "correct_answer": "B",
       "category": "Education",
-      "bundesland": "Berlin"
-    }
+      "bundesland": "General",
+      "note": "Schulpolitik is a Bundesland responsibility, per BAMF."
+    },
+    {
+      "id": 50,
+      "text_de": "Die Wirtschaftsform in Deutschland nennt man ...",
+      "options": {
+        "A": "freie Zentralwirtschaft.",
+        "B": "soziale Marktwirtschaft.",
+        "C": "gelenkte Zentralwirtschaft.",
+        "D": "Planwirtschaft."
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "Germany has a soziale Marktwirtschaft, per BAMF."
+    },
   ]
 }
