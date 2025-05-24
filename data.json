@@ -700,5 +700,705 @@
       "bundesland": "General",
       "note": "Germany has a soziale Marktwirtschaft, per BAMF."
     },
+    {
+      "id": 51,
+      "text_de": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass ...",
+      "options": {
+        "A": "Menschen sich kritisch über die Regierung äußern können.",
+        "B": "Bürger friedlich demonstrieren gehen dürfen.",
+        "C": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+        "D": "jemand ein Verbrechen begeht und deshalb verhaftet wird."
+      },
+      "correct_answer": "C",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Privatpolizei arrests violate Rechtsstaat principles."
+    },
+    {
+      "id": 52,
+      "text_de": "Was bedeutet 'Volkssouveränität'? Alle Staatsgewalt geht vom ...",
+      "options": {
+        "A": "Volke aus.",
+        "B": "Bundestag aus.",
+        "C": "preußischen König aus.",
+        "D": "Bundesverfassungsgericht aus."
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "Article 20(2) Grundgesetz; power derives from the people, per BAMF."
+    },
+    {
+      "id": 53,
+      "text_de": "Was bedeutet 'Rechtsstaat' in Deutschland?",
+      "options": {
+        "A": "Der Staat hat Recht.",
+        "B": "Es gibt nur rechte Parteien.",
+        "C": "Die Bürgerinnen und Bürger entscheiden über Gesetze.",
+        "D": "Der Staat muss die Gesetze einhalten."
+      },
+      "correct_answer": "D",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Rechtsstaat requires state adherence to laws."
+    },
+    {
+      "id": 54,
+      "text_de": "Was ist keine staatliche Gewalt in Deutschland?",
+      "options": {
+        "A": "Legislative",
+        "B": "Judikative",
+        "C": "Exekutive",
+        "D": "Direktive"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Direktive is not a state power."
+    },
+    {
+      "id": 55,
+      "text_de": "Was zeigt dieses Bild?",
+      "options": {
+        "A": "den Bundestagssitz in Berlin",
+        "B": "das Bundesverfassungsgericht in Karlsruhe",
+        "C": "das Bundesratsgebäude in Berlin",
+        "D": "das Bundeskanzleramt in Berlin"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; image typically shows Reichstag, the Bundestag seat."
+    },
+    {
+      "id": 56,
+      "text_de": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+      "options": {
+        "A": "Pfarramt",
+        "B": "Ordnungsamt",
+        "C": "Finanzamt",
+        "D": "Auswärtiges Amt"
+      },
+      "correct_answer": "B",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Ordnungsamt handles local administration."
+    },
+    {
+      "id": 57,
+      "text_de": "Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?",
+      "options": {
+        "A": "die/der älteste Abgeordnete im Parlament",
+        "B": "die Ministerpräsidentin/der Ministerpräsident des größten Bundeslandes",
+        "C": "eine ehemalige Bundeskanzlerin/ein ehemaliger Bundeskanzler",
+        "D": "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; typically from the largest Fraktion."
+    },
+    {
+      "id": 58,
+      "text_de": "Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?",
+      "options": {
+        "A": "die Präsidentin/der Präsident des Bundesverfassungsgerichtes",
+        "B": "die Bundespräsidentin/der Bundespräsident",
+        "C": "die Bundesratspräsidentin/der Bundesratspräsident",
+        "D": "die Bundestagspräsidentin/der Bundestagspräsident"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundespräsident appoints ministers."
+    },
+    {
+      "id": 59,
+      "text_de": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+      "options": {
+        "A": "vor etwa 300 Jahren",
+        "B": "vor etwa 700 Jahren",
+        "C": "vor etwa 1150 Jahren",
+        "D": "vor etwa 1700 Jahren"
+      },
+      "correct_answer": "D",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Jewish communities date back to Roman times (~4th century)."
+    },
+    {
+      "id": 60,
+      "text_de": "In Deutschland gehören der Bundestag und der Bundesrat zur ...",
+      "options": {
+        "A": "Exekutive.",
+        "B": "Legislative.",
+        "C": "Direktive.",
+        "D": "Judikative."
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; both are legislative bodies."
+    },
+    {
+      "id": 61,
+      "text_de": "Was bedeutet 'Volkssouveränität'?",
+      "options": {
+        "A": "Die Königin/der König herrscht über das Volk.",
+        "B": "Das Bundesverfassungsgericht steht über der Verfassung.",
+        "C": "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+        "D": "Die Staatsgewalt geht vom Volke aus."
+      },
+      "correct_answer": "D",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; same as Aufgabe 52, Volkssouveränität is people’s power."
+    },
+    {
+      "id": 62,
+      "text_de": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das ...",
+      "options": {
+        "A": "Kommunalwahl",
+        "B": "Landtagswahl",
+        "C": "Europawahl",
+        "D": "Bundestagswahl"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; state parliament election is Landtagswahl."
+    },
+    {
+      "id": 63,
+      "text_de": "Was gehört in Deutschland nicht zur Exekutive?",
+      "options": {
+        "A": "die Polizei",
+        "B": "die Gerichte",
+        "C": "das Finanzamt",
+        "D": "die Ministerien"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Gerichte are Judikative, not Exekutive."
+    },
+    {
+      "id": 64,
+      "text_de": "Die Bundesrepublik Deutschland ist heute gegliedert in ...",
+      "options": {
+        "A": "vier Besatzungszonen.",
+        "B": "einen Oststaat und einen Weststaat.",
+        "C": "16 Kantone.",
+        "D": "Bund, Länder und Kommunen."
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; federal structure includes Bund, Länder, Kommunen."
+    },
+    {
+      "id": 65,
+      "text_de": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, ...",
+      "options": {
+        "A": "Gesetze zu entwerfen.",
+        "B": "die Bundesregierung zu kontrollieren.",
+        "C": "die Bundeskanzlerin/den Bundeskanzler zu wählen.",
+        "D": "das Bundeskabinett zu bilden."
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Kabinett formation is Bundeskanzler’s task."
+    },
+    {
+      "id": 66,
+      "text_de": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+      "options": {
+        "A": "Berlin und München",
+        "B": "Hamburg und Essen",
+        "C": "Nürnberg und Stuttgart",
+        "D": "Worms und Speyer"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Berlin and München have largest Jewish communities."
+    },
+    {
+      "id": 67,
+      "text_de": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
+      "options": {
+        "A": "Verteidigungspolitik",
+        "B": "Außenpolitik",
+        "C": "Wirtschaftspolitik",
+        "D": "Schulpolitik"
+      },
+      "correct_answer": "D",
+      "category": "Education",
+      "bundesland": "General",
+      "note": "BAMF catalog; Schulpolitik is a Bundesland responsibility."
+    },
+    {
+      "id": 68,
+      "text_de": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
+      "options": {
+        "A": "weil es in Deutschland nur staatliche Schulen gibt",
+        "B": "weil alle Schülerinnen und Schüler einen Schulabschluss haben müssen",
+        "C": "weil es in den Bundesländern verschiedene Schulen gibt",
+        "D": "weil es nach dem Grundgesetz seine Aufgabe ist"
+      },
+      "correct_answer": "D",
+      "category": "Education",
+      "bundesland": "General",
+      "note": "BAMF catalog; Grundgesetz assigns education oversight to states."
+    },
+    {
+      "id": 69,
+      "text_de": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
+      "options": {
+        "A": "Stadträte",
+        "B": "Landräte",
+        "C": "Gemeinden",
+        "D": "Bezirksämter"
+      },
+      "correct_answer": "C",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Gemeinden are the lowest administrative level."
+    },
+    {
+      "id": 70,
+      "text_de": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten?",
+      "options": {
+        "A": "Sie/Er führt die Regierungsgeschäfte.",
+        "B": "Sie/Er kontrolliert die Regierungspartei.",
+        "C": "Sie/Er wählt die Ministerinnen/Minister aus.",
+        "D": "Sie/Er schlägt die Kanzlerin/den Kanzler zur Wahl vor."
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundespräsident proposes Kanzler for election."
+    },
+    {
+      "id": 71,
+      "text_de": "Wo hält sich die deutsche Bundeskanzlerin/der deutsche Bundeskanzler am häufigsten auf?",
+      "options": {
+        "A": "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
+        "B": "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
+        "C": "auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des Bundespräsidenten, um Staatsgäste zu empfangen.",
+        "D": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden."
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Berlin hosts Bundeskanzleramt and Bundestag."
+    },
+    {
+      "id": 72,
+      "text_de": "Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?",
+      "options": {
+        "A": "Gerhard Schröder",
+        "B": "Angela Merkel",
+        "C": "Ursula von der Leyen",
+        "D": "Friedrich Merz"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "PDF (2023) likely expects Olaf Scholz, but as of May 2025, Friedrich Merz is plausible post-election; test context may vary."
+    },
+    {
+      "id": 73,
+      "text_de": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit ...",
+      "options": {
+        "A": "CDU/CSU und AfD.",
+        "B": "Die Linke und Bündnis 90/Die Grünen.",
+        "C": "Bündnis 90/Die Grünen und SPD.",
+        "D": "Die Linke und CDU/CSU."
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "Based on 2025 trends, CDU/CSU and AfD are likely largest; PDF (2023) may expect CDU/CSU and SPD."
+    },
+    {
+      "id": 74,
+      "text_de": "Wie heißt das Parlament für ganz Deutschland?",
+      "options": {
+        "A": "Bundesversammlung",
+        "B": "Volkskammer",
+        "C": "Bundestag",
+        "D": "Bundesgerichtshof"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundestag is the national parliament."
+    },
+    {
+      "id": 75,
+      "text_de": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
+      "options": {
+        "A": "Frank-Walter Steinmeier",
+        "B": "Bärbel Bas",
+        "C": "Bodo Ramelow",
+        "D": "Joachim Gauck"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Steinmeier is Bundespräsident as of May 2025."
+    },
+    {
+      "id": 76,
+      "text_de": "Was bedeutet die Abkürzung CDU in Deutschland?",
+      "options": {
+        "A": "Christliche Deutsche Union",
+        "B": "Club Deutscher Unternehmer",
+        "C": "Christlicher Deutscher Umweltschutz",
+        "D": "Christlich Demokratische Union"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; CDU is Christlich Demokratische Union."
+    },
+    {
+      "id": 77,
+      "text_de": "Was ist die Bundeswehr?",
+      "options": {
+        "A": "die deutsche Polizei",
+        "B": "ein deutscher Hafen",
+        "C": "eine deutsche Bürgerinitiative",
+        "D": "die deutsche Armee"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundeswehr is the German army."
+    },
+    {
+      "id": 78,
+      "text_de": "Was bedeutet die Abkürzung SPD?",
+      "options": {
+        "A": "Sozialistische Partei Deutschlands",
+        "B": "Sozialpolitische Partei Deutschlands",
+        "C": "Sozialdemokratische Partei Deutschlands",
+        "D": "Sozialgerechte Partei Deutschlands"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; SPD is Sozialdemokratische Partei."
+    },
+    {
+      "id": 79,
+      "text_de": "Was bedeutet die Abkürzung FDP in Deutschland?",
+      "options": {
+        "A": "Friedliche Demonstrative Partei",
+        "B": "Freie Deutschland Partei",
+        "C": "Führende Demokratische Partei",
+        "D": "Freie Demokratische Partei"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; FDP is Freie Demokratische Partei."
+    },
+    {
+      "id": 80,
+      "text_de": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
+      "options": {
+        "A": "Oberlandesgericht",
+        "B": "Amtsgericht",
+        "C": "Bundesverfassungsgericht",
+        "D": "Verwaltungsgericht"
+      },
+      "correct_answer": "C",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesverfassungsgericht interprets Grundgesetz."
+    },
+    {
+      "id": 81,
+      "text_de": "Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?",
+      "options": {
+        "A": "der Bundesrat",
+        "B": "die Bundesversammlung",
+        "C": "das Volk",
+        "D": "der Bundestag"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundestag elects the Kanzler."
+    },
+    {
+      "id": 82,
+      "text_de": "Wer leitet das deutsche Bundeskabinett?",
+      "options": {
+        "A": "die Bundestagspräsidentin/der Bundestagspräsident",
+        "B": "die Bundespräsidentin/der Bundespräsident",
+        "C": "die Bundesratspräsidentin/der Bundesratspräsident",
+        "D": "die Bundeskanzlerin/der Bundeskanzler"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Kanzler leads the Kabinett."
+    },
+    {
+      "id": 83,
+      "text_de": "Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?",
+      "options": {
+        "A": "das Volk",
+        "B": "die Bundesversammlung",
+        "C": "der Bundestag",
+        "D": "die Bundesregierung"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; same as Aufgabe 81, Bundestag elects Kanzler."
+    },
+    {
+      "id": 84,
+      "text_de": "Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident?",
+      "options": {
+        "A": "Sie/Er regiert das Land.",
+        "B": "Sie/Er entwirft die Gesetze.",
+        "C": "Sie/Er repräsentiert das Land.",
+        "D": "Sie/Er überwacht die Einhaltung der Gesetze."
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundespräsident represents Germany."
+    },
+    {
+      "id": 85,
+      "text_de": "Wer bildet den deutschen Bundesrat?",
+      "options": {
+        "A": "die Abgeordneten des Bundestages",
+        "B": "die Ministerinnen und Minister der Bundesregierung",
+        "C": "die Regierungsvertreter der Bundesländer",
+        "D": "die Parteimitglieder"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesrat consists of state representatives."
+    },
+    {
+      "id": 86,
+      "text_de": "Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten?",
+      "options": {
+        "A": "die Bundesversammlung",
+        "B": "der Bundesrat",
+        "C": "das Bundesparlament",
+        "D": "das Bundesverfassungsgericht"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesversammlung elects Bundespräsident."
+    },
+    {
+      "id": 87,
+      "text_de": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "die Bundeskanzlerin/der Bundeskanzler",
+        "B": "die Bundespräsidentin/der Bundespräsident",
+        "C": "die Bundesratspräsidentin/der Bundesratspräsident",
+        "D": "die Bundestagspräsidentin/der Bundestagspräsident"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundespräsident is head of state."
+    },
+    {
+      "id": 88,
+      "text_de": "Die parlamentarische Opposition im Deutschen Bundestag ...",
+      "options": {
+        "A": "kontrolliert die Regierung.",
+        "B": "entscheidet, wer Bundesministerin/Bundesminister wird.",
+        "C": "bestimmt, wer im Bundesrat sitzt.",
+        "D": "schlägt die Regierungschefinnen/Regierungschefs der Länder vor."
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Opposition monitors government."
+    },
+    {
+      "id": 89,
+      "text_de": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+      "options": {
+        "A": "Verband",
+        "B": "Ältestenrat",
+        "C": "Fraktion",
+        "D": "Opposition"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Fraktion is a party’s parliamentary group."
+    },
+    {
+      "id": 90,
+      "text_de": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch ...",
+      "options": {
+        "A": "den Bundesrat.",
+        "B": "die Bundesversammlung.",
+        "C": "den Bundestag.",
+        "D": "die Bundesregierung."
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesrat represents states in legislation."
+    },
+    {
+      "id": 91,
+      "text_de": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird ...",
+      "options": {
+        "A": "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+        "B": "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+        "C": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+        "D": "leichter, wenn es sich um ein reiches Bundesland handelt."
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesrat majority shifts affect federal lawmaking."
+    },
+    {
+      "id": 92,
+      "text_de": "Was bedeutet die Abkürzung CSU in Deutschland?",
+      "options": {
+        "A": "Christlich Sichere Union",
+        "B": "Christlich Süddeutsche Union",
+        "C": "Christlich Sozialer Unternehmerverband",
+        "D": "Christlich Soziale Union"
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; CSU is Christlich Soziale Union."
+    },
+    {
+      "id": 93,
+      "text_de": "Je mehr 'Zweitstimmen' eine Partei bei einer Bundestagswahl bekommt, desto ...",
+      "options": {
+        "A": "weniger Erststimmen kann sie haben.",
+        "B": "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+        "C": "größer ist das Risiko, eine Koalition bilden zu müssen.",
+        "D": "mehr Sitze erhält die Partei im Parlament."
+      },
+      "correct_answer": "D",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Zweitstimmen determine proportional seats."
+    },
+    {
+      "id": 94,
+      "text_de": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+      "options": {
+        "A": "16",
+        "B": "18",
+        "C": "21",
+        "D": "23"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; voting age is 18."
+    },
+    {
+      "id": 95,
+      "text_de": "Was gilt für die meisten Kinder in Deutschland?",
+      "options": {
+        "A": "Wahlpflicht",
+        "B": "Schulpflicht",
+        "C": "Schweigepflicht",
+        "D": "Religionspflicht"
+      },
+      "correct_answer": "B",
+      "category": "Education",
+      "bundesland": "General",
+      "note": "BAMF catalog; Schulpflicht applies to children."
+    },
+    {
+      "id": 96,
+      "text_de": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+      "options": {
+        "A": "Kürzung sozialer Leistungen",
+        "B": "bis zu 100 Sozialstunden",
+        "C": "gar nicht, Holocaustleugnung ist erlaubt",
+        "D": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe"
+      },
+      "correct_answer": "D",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; §130 StGB penalizes Holocaust denial."
+    },
+    {
+      "id": 97,
+      "text_de": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+      "options": {
+        "A": "Sozialversicherung",
+        "B": "Sozialhilfe",
+        "C": "Kindergeld",
+        "D": "Wohngeld"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Sozialversicherung is mandatory for employees."
+    },
+    {
+      "id": 98,
+      "text_de": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, ...",
+      "options": {
+        "A": "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen.",
+        "B": "kann die Regierung ihre Mehrheit verlieren.",
+        "C": "muss die Bundespräsidentin/der Bundespräsident zuvor ihr/sein Einverständnis geben.",
+        "D": "dürfen die Wählerinnen/Wähler dieser Abgeordneten noch einmal wählen."
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Fraktion switches can affect government majority."
+    },
+    {
+      "id": 99,
+      "text_de": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+      "options": {
+        "A": "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+        "B": "nur Arbeitnehmerinnen/Arbeitnehmer",
+        "C": "alle Staatsangehörigen",
+        "D": "nur Arbeitgeberinnen/Arbeitgeber"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; both employers and employees contribute."
+    },
+    {
+      "id": 100,
+      "text_de": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+      "options": {
+        "A": "die Lebensversicherung",
+        "B": "die gesetzliche Rentenversicherung",
+        "C": "die Arbeitslosenversicherung",
+        "D": "die Pflegeversicherung"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Lebensversicherung is private, not statutory."
+    }
   ]
 }
