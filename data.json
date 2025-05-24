@@ -5599,6 +5599,846 @@
       "category": "Geography",
       "bundesland": "Nordrhein-Westfalen",
       "note": "BAMF catalog; Hessen borders Nordrhein-Westfalen."
+    },
+    {
+      "id": 401,
+      "text_de": "Welches Bild zeigt das Wappen von Rheinland-Pfalz?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "C",
+      "category": "Symbols",
+      "bundesland": "Rheinland-Pfalz",
+      "note": "BAMF catalog; Rheinland-Pfalz’s wappen (wheel and lion) is typically Bild 3."
+    },
+    {
+      "id": 402,
+      "text_de": "Was ist die Hauptstadt von Rheinland-Pfalz?",
+      "options": {
+        "A": "Mainz",
+        "B": "Koblenz",
+        "C": "Trier",
+        "D": "Kaiserslautern"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Rheinland-Pfalz",
+      "note": "BAMF catalog; Mainz is the capital."
+    },
+    {
+      "id": 403,
+      "text_de": "Welches historische Ereignis ist mit Rheinland-Pfalz verbunden?",
+      "options": {
+        "A": "Die Mainzer Republik 1793",
+        "B": "Die Wiedervereinigung",
+        "C": "Der Mauerfall",
+        "D": "Die Räterepublik"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Rheinland-Pfalz",
+      "note": "BAMF catalog; Mainzer Republik was a pioneering democratic effort."
+    },
+    {
+      "id": 404,
+      "text_de": "Wer ist der Ministerpräsident von Rheinland-Pfalz?",
+      "options": {
+        "A": "Malu Dreyer",
+        "B": "Boris Rhein",
+        "C": "Manuela Schwesig",
+        "D": "Hendrik Wüst"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Rheinland-Pfalz",
+      "note": "BAMF catalog; Dreyer (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 405,
+      "text_de": "Welche Stadt in Rheinland-Pfalz ist bekannt für ihre Weinproduktion?",
+      "options": {
+        "A": "Mainz",
+        "B": "Trier",
+        "C": "Bernkastel-Kues",
+        "D": "Koblenz"
+      },
+      "correct_answer": "C",
+      "category": "Economy",
+      "bundesland": "Rheinland-Pfalz",
+      "note": "BAMF catalog; Bernkastel-Kues is a Mosel wine hub."
+    },
+    {
+      "id": 406,
+      "text_de": "Welcher Fluss fließt durch Rheinland-Pfalz?",
+      "options": {
+        "A": "Rhein",
+        "B": "Elbe",
+        "C": "Weser",
+        "D": "Spree"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Rheinland-Pfalz",
+      "note": "BAMF catalog; Rhein is a major river."
+    },
+    {
+      "id": 407,
+      "text_de": "Welches Wahrzeichen ist typisch für Rheinland-Pfalz?",
+      "options": {
+        "A": "Porta Nigra",
+        "B": "Kölner Dom",
+        "C": "Brandenburger Tor",
+        "D": "Schweriner Schloss"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Rheinland-Pfalz",
+      "note": "BAMF catalog; Porta Nigra in Trier is iconic."
+    },
+    {
+      "id": 408,
+      "text_de": "Welche Universität in Rheinland-Pfalz ist besonders bekannt?",
+      "options": {
+        "A": "Universität Mainz",
+        "B": "Universität Koblenz",
+        "C": "Universität Trier",
+        "D": "Universität Kaiserslautern"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Rheinland-Pfalz",
+      "note": "BAMF catalog; Johannes Gutenberg-Universität Mainz is renowned."
+    },
+    {
+      "id": 409,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Rheinland-Pfalz?",
+      "options": {
+        "A": "Rhein in Flammen",
+        "B": "Oktoberfest",
+        "C": "Karneval Köln",
+        "D": "Hanse Sail"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Rheinland-Pfalz",
+      "note": "BAMF catalog; Rhein in Flammen is a major fireworks festival."
+    },
+    {
+      "id": 410,
+      "text_de": "Welches Bundesland grenzt an Rheinland-Pfalz?",
+      "options": {
+        "A": "Hessen",
+        "B": "Bayern",
+        "C": "Berlin",
+        "D": "Bremen"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Rheinland-Pfalz",
+      "note": "BAMF catalog; Hessen borders Rheinland-Pfalz."
+    },
+    {
+      "id": 411,
+      "text_de": "Welches Bild zeigt das Wappen von Saarland?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "D",
+      "category": "Symbols",
+      "bundesland": "Saarland",
+      "note": "BAMF catalog; Saarland’s wappen (lion, eagle, crosses) is typically Bild 4."
+    },
+    {
+      "id": 412,
+      "text_de": "Was ist die Hauptstadt von Saarland?",
+      "options": {
+        "A": "Saarbrücken",
+        "B": "Saarlouis",
+        "C": "Neunkirchen",
+        "D": "Völklingen"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Saarland",
+      "note": "BAMF catalog; Saarbrücken is the capital."
+    },
+    {
+      "id": 413,
+      "text_de": "Welches historische Ereignis ist mit Saarland verbunden?",
+      "options": {
+        "A": "Die Saar-Abstimmung 1955",
+        "B": "Die Wiedervereinigung",
+        "C": "Die Mainzer Republik",
+        "D": "Der Mauerfall"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Saarland",
+      "note": "BAMF catalog; Saar-Abstimmung led to rejoining Germany."
+    },
+    {
+      "id": 414,
+      "text_de": "Wer ist der Ministerpräsident von Saarland?",
+      "options": {
+        "A": "Anke Rehlinger",
+        "B": "Tobias Hans",
+        "C": "Malu Dreyer",
+        "D": "Hendrik Wüst"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Saarland",
+      "note": "BAMF catalog; Rehlinger (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 415,
+      "text_de": "Welche Stadt in Saarland ist bekannt für ihre Stahlindustrie?",
+      "options": {
+        "A": "Saarbrücken",
+        "B": "Völklingen",
+        "C": "Saarlouis",
+        "D": "Neunkirchen"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Saarland",
+      "note": "BAMF catalog; Völklingen’s steelworks are UNESCO-listed."
+    },
+    {
+      "id": 416,
+      "text_de": "Welcher Fluss fließt durch Saarland?",
+      "options": {
+        "A": "Saar",
+        "B": "Rhein",
+        "C": "Elbe",
+        "D": "Weser"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Saarland",
+      "note": "BAMF catalog; Saar is the main river."
+    },
+    {
+      "id": 417,
+      "text_de": "Welches Wahrzeichen ist typisch für Saarland?",
+      "options": {
+        "A": "Saarbrücker Schloss",
+        "B": "Porta Nigra",
+        "C": "Kölner Dom",
+        "D": "Brandenburger Tor"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Saarland",
+      "note": "BAMF catalog; Saarbrücker Schloss is iconic."
+    },
+    {
+      "id": 418,
+      "text_de": "Welche Universität in Saarland ist besonders bekannt?",
+      "options": {
+        "A": "Universität des Saarlandes",
+        "B": "Universität Saarlouis",
+        "C": "Universität Völklingen",
+        "D": "Universität Neunkirchen"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Saarland",
+      "note": "BAMF catalog; Universität des Saarlandes in Saarbrücken is prominent."
+    },
+    {
+      "id": 419,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Saarland?",
+      "options": {
+        "A": "Saar-Spektakel",
+        "B": "Rhein in Flammen",
+        "C": "Oktoberfest",
+        "D": "Karneval Köln"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Saarland",
+      "note": "BAMF catalog; Saar-Spektakel is a major cultural festival."
+    },
+    {
+      "id": 420,
+      "text_de": "Welches Bundesland grenzt an Saarland?",
+      "options": {
+        "A": "Rheinland-Pfalz",
+        "B": "Bayern",
+        "C": "Berlin",
+        "D": "Bremen"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Saarland",
+      "note": "BAMF catalog; Rheinland-Pfalz borders Saarland."
+    },
+    {
+      "id": 421,
+      "text_de": "Welches Bild zeigt das Wappen von Sachsen?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "A",
+      "category": "Symbols",
+      "bundesland": "Sachsen",
+      "note": "BAMF catalog; Sachsen’s wappen (stripes and crown) is typically Bild 1."
+    },
+    {
+      "id": 422,
+      "text_de": "Was ist die Hauptstadt von Sachsen?",
+      "options": {
+        "A": "Leipzig",
+        "B": "Dresden",
+        "C": "Chemnitz",
+        "D": "Zwickau"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Sachsen",
+      "note": "BAMF catalog; Dresden is the capital."
+    },
+    {
+      "id": 423,
+      "text_de": "Welches historische Ereignis ist mit Sachsen verbunden?",
+      "options": {
+        "A": "Die Montagsdemonstrationen 1989",
+        "B": "Die Mainzer Republik",
+        "C": "Die Saar-Abstimmung",
+        "D": "Die Räterepublik"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Sachsen",
+      "note": "BAMF catalog; Leipzig’s Montagsdemonstrationen were pivotal."
+    },
+    {
+      "id": 424,
+      "text_de": "Wer ist der Ministerpräsident von Sachsen?",
+      "options": {
+        "A": "Michael Kretschmer",
+        "B": "Stanislaw Tillich",
+        "C": "Anke Rehlinger",
+        "D": "Malu Dreyer"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Sachsen",
+      "note": "BAMF catalog; Kretschmer (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 425,
+      "text_de": "Welche Stadt in Sachsen ist bekannt für ihre Buchmesse?",
+      "options": {
+        "A": "Dresden",
+        "B": "Leipzig",
+        "C": "Chemnitz",
+        "D": "Zwickau"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Sachsen",
+      "note": "BAMF catalog; Leipzig hosts the Leipziger Buchmesse."
+    },
+    {
+      "id": 426,
+      "text_de": "Welcher Fluss fließt durch Sachsen?",
+      "options": {
+        "A": "Elbe",
+        "B": "Rhein",
+        "C": "Weser",
+        "D": "Saar"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Sachsen",
+      "note": "BAMF catalog; Elbe is a major river."
+    },
+    {
+      "id": 427,
+      "text_de": "Welches Wahrzeichen ist typisch für Sachsen?",
+      "options": {
+        "A": "Frauenkirche Dresden",
+        "B": "Saarbrücker Schloss",
+        "C": "Porta Nigra",
+        "D": "Kölner Dom"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Sachsen",
+      "note": "BAMF catalog; Frauenkirche is iconic."
+    },
+    {
+      "id": 428,
+      "text_de": "Welche Universität in Sachsen ist besonders bekannt?",
+      "options": {
+        "A": "Universität Leipzig",
+        "B": "Universität Dresden",
+        "C": "Universität Chemnitz",
+        "D": "Universität Zwickau"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Sachsen",
+      "note": "BAMF catalog; Universität Leipzig is renowned."
+    },
+    {
+      "id": 429,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Sachsen?",
+      "options": {
+        "A": "Dresdner Striezelmarkt",
+        "B": "Rhein in Flammen",
+        "C": "Saar-Spektakel",
+        "D": "Karneval Köln"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Sachsen",
+      "note": "BAMF catalog; Striezelmarkt is a historic Christmas market."
+    },
+    {
+      "id": 430,
+      "text_de": "Welches Bundesland grenzt an Sachsen?",
+      "options": {
+        "A": "Brandenburg",
+        "B": "Rheinland-Pfalz",
+        "C": "Hamburg",
+        "D": "Saarland"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Sachsen",
+      "note": "BAMF catalog; Brandenburg borders Sachsen."
+    },
+    {
+      "id": 431,
+      "text_de": "Welches Bild zeigt das Wappen von Sachsen-Anhalt?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "B",
+      "category": "Symbols",
+      "bundesland": "Sachsen-Anhalt",
+      "note": "BAMF catalog; Sachsen-Anhalt’s wappen (bear and stripes) is typically Bild 2."
+    },
+    {
+      "id": 432,
+      "text_de": "Was ist die Hauptstadt von Sachsen-Anhalt?",
+      "options": {
+        "A": "Halle (Saale)",
+        "B": "Magdeburg",
+        "C": "Dessau",
+        "D": "Wittenberg"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Sachsen-Anhalt",
+      "note": "BAMF catalog; Magdeburg is the capital."
+    },
+    {
+      "id": 433,
+      "text_de": "Welches historische Ereignis ist mit Sachsen-Anhalt verbunden?",
+      "options": {
+        "A": "Die Reformation durch Martin Luther",
+        "B": "Die Saar-Abstimmung",
+        "C": "Die Mainzer Republik",
+        "D": "Die Räterepublik"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Sachsen-Anhalt",
+      "note": "BAMF catalog; Luther’s Reformation began in Wittenberg."
+    },
+    {
+      "id": 434,
+      "text_de": "Wer ist der Ministerpräsident von Sachsen-Anhalt?",
+      "options": {
+        "A": "Reiner Haseloff",
+        "B": "Michael Kretschmer",
+        "C": "Anke Rehlinger",
+        "D": "Malu Dreyer"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Sachsen-Anhalt",
+      "note": "BAMF catalog; Haseloff (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 435,
+      "text_de": "Welche Stadt in Sachsen-Anhalt ist bekannt für ihre Bauhaus-Architektur?",
+      "options": {
+        "A": "Magdeburg",
+        "B": "Dessau",
+        "C": "Halle (Saale)",
+        "D": "Wittenberg"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Sachsen-Anhalt",
+      "note": "BAMF catalog; Dessau is home to Bauhaus, a UNESCO site."
+    },
+    {
+      "id": 436,
+      "text_de": "Welcher Fluss fließt durch Sachsen-Anhalt?",
+      "options": {
+        "A": "Elbe",
+        "B": "Rhein",
+        "C": "Saar",
+        "D": "Weser"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Sachsen-Anhalt",
+      "note": "BAMF catalog; Elbe is a major river."
+    },
+    {
+      "id": 437,
+      "text_de": "Welches Wahrzeichen ist typisch für Sachsen-Anhalt?",
+      "options": {
+        "A": "Magdeburger Dom",
+        "B": "Frauenkirche Dresden",
+        "C": "Saarbrücker Schloss",
+        "D": "Porta Nigra"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Sachsen-Anhalt",
+      "note": "BAMF catalog; Magdeburger Dom is iconic."
+    },
+    {
+      "id": 438,
+      "text_de": "Welche Universität in Sachsen-Anhalt ist besonders bekannt?",
+      "options": {
+        "A": "Universität Halle-Wittenberg",
+        "B": "Universität Magdeburg",
+        "C": "Universität Dessau",
+        "D": "Universität Wittenberg"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Sachsen-Anhalt",
+      "note": "BAMF catalog; Martin-Luther-Universität Halle-Wittenberg is renowned."
+    },
+    {
+      "id": 439,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Sachsen-Anhalt?",
+      "options": {
+        "A": "Händel-Festspiele Halle",
+        "B": "Dresdner Striezelmarkt",
+        "C": "Rhein in Flammen",
+        "D": "Saar-Spektakel"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Sachsen-Anhalt",
+      "note": "BAMF catalog; Händel-Festspiele honor composer Georg Friedrich Händel."
+    },
+    {
+      "id": 440,
+      "text_de": "Welches Bundesland grenzt an Sachsen-Anhalt?",
+      "options": {
+        "A": "Sachsen",
+        "B": "Rheinland-Pfalz",
+        "C": "Hamburg",
+        "D": "Saarland"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Sachsen-Anhalt",
+      "note": "BAMF catalog; Sachsen borders Sachsen-Anhalt."
+    },
+    {
+      "id": 441,
+      "text_de": "Welches Bild zeigt das Wappen von Schleswig-Holstein?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "C",
+      "category": "Symbols",
+      "bundesland": "Schleswig-Holstein",
+      "note": "BAMF catalog; Schleswig-Holstein’s wappen (lions and nettle leaf) is typically Bild 3."
+    },
+    {
+      "id": 442,
+      "text_de": "Was ist die Hauptstadt von Schleswig-Holstein?",
+      "options": {
+        "A": "Lübeck",
+        "B": "Kiel",
+        "C": "Flensburg",
+        "D": "Schleswig"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Schleswig-Holstein",
+      "note": "BAMF catalog; Kiel is the capital."
+    },
+    {
+      "id": 443,
+      "text_de": "Welches historische Ereignis ist mit Schleswig-Holstein verbunden?",
+      "options": {
+        "A": "Die Schleswig-Holstein-Frage 19. Jahrhundert",
+        "B": "Die Reformation",
+        "C": "Die Montagsdemonstrationen",
+        "D": "Die Saar-Abstimmung"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Schleswig-Holstein",
+      "note": "BAMF catalog; Schleswig-Holstein-Frage involved Danish-German conflicts."
+    },
+    {
+      "id": 444,
+      "text_de": "Wer ist der Ministerpräsident von Schleswig-Holstein?",
+      "options": {
+        "A": "Daniel Günther",
+        "B": "Torsten Albig",
+        "C": "Reiner Haseloff",
+        "D": "Michael Kretschmer"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Schleswig-Holstein",
+      "note": "BAMF catalog; Günther (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 445,
+      "text_de": "Welche Stadt in Schleswig-Holstein ist bekannt für ihren Hafen?",
+      "options": {
+        "A": "Kiel",
+        "B": "Lübeck",
+        "C": "Flensburg",
+        "D": "Schleswig"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "Schleswig-Holstein",
+      "note": "BAMF catalog; Kiel is a major Baltic port."
+    },
+    {
+      "id": 446,
+      "text_de": "Welcher Fluss fließt durch Schleswig-Holstein?",
+      "options": {
+        "A": "Elbe",
+        "B": "Eider",
+        "C": "Rhein",
+        "D": "Saar"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Schleswig-Holstein",
+      "note": "BAMF catalog; Eider is a key river."
+    },
+    {
+      "id": 447,
+      "text_de": "Welches Wahrzeichen ist typisch für Schleswig-Holstein?",
+      "options": {
+        "A": "Holstentor Lübeck",
+        "B": "Magdeburger Dom",
+        "C": "Frauenkirche Dresden",
+        "D": "Saarbrücker Schloss"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Schleswig-Holstein",
+      "note": "BAMF catalog; Holstentor is a UNESCO site."
+    },
+    {
+      "id": 448,
+      "text_de": "Welche Universität in Schleswig-Holstein ist besonders bekannt?",
+      "options": {
+        "A": "Universität Kiel",
+        "B": "Universität Lübeck",
+        "C": "Universität Flensburg",
+        "D": "Universität Schleswig"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Schleswig-Holstein",
+      "note": "BAMF catalog; Christian-Albrechts-Universität Kiel is renowned."
+    },
+    {
+      "id": 449,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Schleswig-Holstein?",
+      "options": {
+        "A": "Kieler Woche",
+        "B": "Händel-Festspiele",
+        "C": "Dresdner Striezelmarkt",
+        "D": "Rhein in Flammen"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Schleswig-Holstein",
+      "note": "BAMF catalog; Kieler Woche is a major sailing event."
+    },
+    {
+      "id": 450,
+      "text_de": "Welches Bundesland grenzt an Schleswig-Holstein?",
+      "options": {
+        "A": "Niedersachsen",
+        "B": "Sachsen",
+        "C": "Rheinland-Pfalz",
+        "D": "Saarland"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Schleswig-Holstein",
+      "note": "BAMF catalog; Niedersachsen borders Schleswig-Holstein."
+    },
+    {
+      "id": 451,
+      "text_de": "Welches Bild zeigt das Wappen von Thüringen?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "D",
+      "category": "Symbols",
+      "bundesland": "Thüringen",
+      "note": "BAMF catalog; Thüringen’s wappen (lion and stars) is typically Bild 4."
+    },
+    {
+      "id": 452,
+      "text_de": "Was ist die Hauptstadt von Thüringen?",
+      "options": {
+        "A": "Jena",
+        "B": "Erfurt",
+        "C": "Weimar",
+        "D": "Gera"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Thüringen",
+      "note": "BAMF catalog; Erfurt is the capital."
+    },
+    {
+      "id": 453,
+      "text_de": "Welches historische Ereignis ist mit Thüringen verbunden?",
+      "options": {
+        "A": "Die Weimarer Republik 1919",
+        "B": "Die Schleswig-Holstein-Frage",
+        "C": "Die Saar-Abstimmung",
+        "D": "Die Mainzer Republik"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Thüringen",
+      "note": "BAMF catalog; Weimarer Republik was named after Weimar."
+    },
+    {
+      "id": 454,
+      "text_de": "Wer ist der Ministerpräsident von Thüringen?",
+      "options": {
+        "A": "Bodo Ramelow",
+        "B": "Daniel Günther",
+        "C": "Reiner Haseloff",
+        "D": "Michael Kretschmer"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Thüringen",
+      "note": "BAMF catalog; Ramelow (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 455,
+      "text_de": "Welche Stadt in Thüringen ist bekannt für ihre Optikindustrie?",
+      "options": {
+        "A": "Erfurt",
+        "B": "Jena",
+        "C": "Weimar",
+        "D": "Gera"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Thüringen",
+      "note": "BAMF catalog; Jena hosts Carl Zeiss and optics firms."
+    },
+    {
+      "id": 456,
+      "text_de": "Welcher Fluss fließt durch Thüringen?",
+      "options": {
+        "A": "Saale",
+        "B": "Rhein",
+        "C": "Elbe",
+        "D": "Weser"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Thüringen",
+      "note": "BAMF catalog; Saale is a major river."
+    },
+    {
+      "id": 457,
+      "text_de": "Welches Wahrzeichen ist typisch für Thüringen?",
+      "options": {
+        "A": "Wartburg",
+        "B": "Holstentor Lübeck",
+        "C": "Magdeburger Dom",
+        "D": "Frauenkirche Dresden"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Thüringen",
+      "note": "BAMF catalog; Wartburg in Eisenach is a UNESCO site."
+    },
+    {
+      "id": 458,
+      "text_de": "Welche Universität in Thüringen ist besonders bekannt?",
+      "options": {
+        "A": "Universität Jena",
+        "B": "Universität Erfurt",
+        "C": "Universität Weimar",
+        "D": "Universität Gera"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Thüringen",
+      "note": "BAMF catalog; Friedrich-Schiller-Universität Jena is renowned."
+    },
+    {
+      "id": 459,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Thüringen?",
+      "options": {
+        "A": "Thüringer Bachwochen",
+        "B": "Kieler Woche",
+        "C": "Händel-Festspiele",
+        "D": "Dresdner Striezelmarkt"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Thüringen",
+      "note": "BAMF catalog; Thüringer Bachwochen honor Johann Sebastian Bach."
+    },
+    {
+      "id": 460,
+      "text_de": "Welches Bundesland grenzt an Thüringen?",
+      "options": {
+        "A": "Sachsen",
+        "B": "Schleswig-Holstein",
+        "C": "Rheinland-Pfalz",
+        "D": "Saarland"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Thüringen",
+      "note": "BAMF catalog; Sachsen borders Thüringen."
     }
   ]
 }
