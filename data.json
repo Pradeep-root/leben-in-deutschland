@@ -1632,7 +1632,8 @@
         "B": "Eheschließungen registrieren",
         "C": "Steuererklärungen prüfen",
         "D": "Führerscheine ausgeben"
-'istitute": "B",
+      },
+      "correct_answer": "B",
       "category": "Administration",
       "bundesland": "General",
       "note": "BAMF catalog; Standesamt registers marriages."
@@ -2098,6 +2099,706 @@
       "category": "Economy",
       "bundesland": "General",
       "note": "BAMF catalog; Soziale Marktwirtschaft balances competition and welfare."
+    },
+    {
+      "id": 151,
+      "text_de": "Welches Bild zeigt ein Symbol der Weimarer Republik?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "C",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Weimarer Republik symbol is typically the black-red-gold flag, Bild 3."
+    },
+    {
+      "id": 152,
+      "text_de": "Was war die Weimarer Republik?",
+      "options": {
+        "A": "Eine Monarchie in Deutschland",
+        "B": "Die erste Demokratie in Deutschland",
+        "C": "Ein Bundesland der DDR",
+        "D": "Eine Diktatur nach dem Zweiten Weltkrieg"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Weimarer Republik (1919–1933) was Germany’s first democracy."
+    },
+    {
+      "id": 153,
+      "text_de": "Wer war der erste Bundeskanzler der Bundesrepublik Deutschland?",
+      "options": {
+        "A": "Willy Brandt",
+        "B": "Konrad Adenauer",
+        "C": "Helmut Schmidt",
+        "D": "Gerhard Schröder"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Konrad Adenauer was Kanzler from 1949–1963."
+    },
+    {
+      "id": 154,
+      "text_de": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+      "options": {
+        "A": "1919",
+        "B": "1933",
+        "C": "1945",
+        "D": "1949"
+      },
+      "correct_answer": "D",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; BRD was founded on May 23, 1949."
+    },
+    {
+      "id": 155,
+      "text_de": "Was war die DDR?",
+      "options": {
+        "A": "Ein demokratischer Staat in Westdeutschland",
+        "B": "Ein sozialistischer Staat in Ostdeutschland",
+        "C": "Eine Monarchie in Norddeutschland",
+        "D": "Ein Bundesland der BRD"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; DDR was the socialist East Germany (1949–1990)."
+    },
+    {
+      "id": 156,
+      "text_de": "Wann wurde die DDR gegründet?",
+      "options": {
+        "A": "1945",
+        "B": "1949",
+        "C": "1953",
+        "D": "1961"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; DDR was founded on October 7, 1949."
+    },
+    {
+      "id": 157,
+      "text_de": "Was war die 'Mauer' in Berlin?",
+      "options": {
+        "A": "Ein Denkmal für die Wiedervereinigung",
+        "B": "Eine Grenze zwischen Ost- und Westberlin",
+        "C": "Ein Schutzwall gegen Überschwemmungen",
+        "D": "Eine Touristenattraktion"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Berliner Mauer (1961–1989) separated East and West Berlin."
+    },
+    {
+      "id": 158,
+      "text_de": "Wann wurde die Berliner Mauer gebaut?",
+      "options": {
+        "A": "1945",
+        "B": "1953",
+        "C": "1961",
+        "D": "1989"
+      },
+      "correct_answer": "C",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Mauer construction began August 13, 1961."
+    },
+    {
+      "id": 159,
+      "text_de": "Wann fiel die Berliner Mauer?",
+      "options": {
+        "A": "1987",
+        "B": "1989",
+        "C": "1990",
+        "D": "1991"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Mauer fell on November 9, 1989."
+    },
+    {
+      "id": 160,
+      "text_de": "Wann war die Wiedervereinigung Deutschlands?",
+      "options": {
+        "A": "1989",
+        "B": "1990",
+        "C": "1991",
+        "D": "1992"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Reunification was October 3, 1990."
+    },
+    {
+      "id": 161,
+      "text_de": "Was war das 'Dritte Reich'?",
+      "options": {
+        "A": "Die Weimarer Republik",
+        "B": "Die NS-Diktatur",
+        "C": "Die DDR",
+        "D": "Die BRD"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Drittes Reich was Nazi Germany (1933–1945)."
+    },
+    {
+      "id": 162,
+      "text_de": "Wer war Adolf Hitler?",
+      "options": {
+        "A": "Ein Bundeskanzler der Weimarer Republik",
+        "B": "Der Führer der NSDAP und Diktator",
+        "C": "Ein Präsident der DDR",
+        "D": "Ein Minister der BRD"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Hitler led Nazi Germany."
+    },
+    {
+      "id": 163,
+      "text_de": "Was war der Holocaust?",
+      "options": {
+        "A": "Ein Wirtschaftsprogramm der NSDAP",
+        "B": "Die systematische Vernichtung von Juden und anderen Gruppen",
+        "C": "Ein Kulturprogramm der Weimarer Republik",
+        "D": "Die Wiedervereinigung Deutschlands"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Holocaust was the genocide of Jews and others."
+    },
+    {
+      "id": 164,
+      "text_de": "Welche Gruppe wurde im Nationalsozialismus besonders verfolgt?",
+      "options": {
+        "A": "Juden",
+        "B": "Katholiken",
+        "C": "Bauern",
+        "D": "Arbeiter"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Jews were primary victims of Nazi persecution."
+    },
+    {
+      "id": 165,
+      "text_de": "Wann begann der Zweite Weltkrieg?",
+      "options": {
+        "A": "1914",
+        "B": "1933",
+        "C": "1939",
+        "D": "1945"
+      },
+      "correct_answer": "C",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; WWII began September 1, 1939."
+    },
+    {
+      "id": 166,
+      "text_de": "Wann endete der Zweite Weltkrieg in Europa?",
+      "options": {
+        "A": "1943",
+        "B": "1945",
+        "C": "1947",
+        "D": "1949"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; WWII ended May 8, 1945 in Europe."
+    },
+    {
+      "id": 167,
+      "text_de": "Was war die 'NSDAP'?",
+      "options": {
+        "A": "Eine demokratische Partei der Weimarer Republik",
+        "B": "Die Nationalsozialistische Deutsche Arbeiterpartei",
+        "C": "Eine Widerstandsbewegung gegen die Nazis",
+        "D": "Eine Partei der DDR"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; NSDAP was the Nazi party."
+    },
+    {
+      "id": 168,
+      "text_de": "Welche Parteien bilden in Deutschland die sogenannte 'Kenia-Koalition'?",
+      "options": {
+        "A": "CDU/CSU, SPD, Bündnis 90/Die Grünen",
+        "B": "SPD, FDP, Die Linke",
+        "C": "CDU/CSU, AfD, FDP",
+        "D": "Bündnis 90/Die Grünen, Die Linke, SPD"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Kenia-Koalition (black-red-green) is CDU/CSU, SPD, Grüne."
+    },
+    {
+      "id": 169,
+      "text_de": "Was war die 'Wirtschaftswunder'-Zeit in Deutschland?",
+      "options": {
+        "A": "Die Wirtschaftskrise der 1920er Jahre",
+        "B": "Der wirtschaftliche Aufschwung der 1950er und 1960er Jahre",
+        "C": "Die Wiedervereinigung 1990",
+        "D": "Die Euro-Einführung 2002"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Wirtschaftswunder was post-WWII economic boom."
+    },
+    {
+      "id": 170,
+      "text_de": "Wer war Willy Brandt?",
+      "options": {
+        "A": "Ein Bundeskanzler der BRD",
+        "B": "Ein Präsident der DDR",
+        "C": "Ein Führer der NSDAP",
+        "D": "Ein Minister der Weimarer Republik"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Willy Brandt was Kanzler (1969–1974)."
+    },
+    {
+      "id": 171,
+      "text_de": "Wer war die erste Bundeskanzlerin Deutschlands?",
+      "options": {
+        "A": "Ursula von der Leyen",
+        "B": "Angela Merkel",
+        "C": "Hannelore Kohl",
+        "D": "Renate Künast"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Angela Merkel was Kanzlerin (2005–2021)."
+    },
+    {
+      "id": 172,
+      "text_de": "Was war die 'Ostpolitik' von Willy Brandt?",
+      "options": {
+        "A": "Eine Politik zur Stärkung der DDR",
+        "B": "Eine Annäherungspolitik an osteuropäische Staaten",
+        "C": "Eine Wirtschaftspolitik für Ostdeutschland",
+        "D": "Eine Militärpolitik gegen die Sowjetunion"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Ostpolitik sought détente with Eastern Bloc."
+    },
+    {
+      "id": 173,
+      "text_de": "Was war die 'RAF' in Deutschland?",
+      "options": {
+        "A": "Eine politische Partei",
+        "B": "Eine Terrororganisation",
+        "C": "Eine Wirtschaftsorganisation",
+        "D": "Eine Sportorganisation"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Rote Armee Fraktion was a terrorist group."
+    },
+    {
+      "id": 174,
+      "text_de": "Wann wurde der Euro in Deutschland eingeführt?",
+      "options": {
+        "A": "1990",
+        "B": "1995",
+        "C": "2002",
+        "D": "2005"
+      },
+      "correct_answer": "C",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Euro was introduced January 1, 2002."
+    },
+    {
+      "id": 175,
+      "text_de": "Was war die 'Agenda 2010' in Deutschland?",
+      "options": {
+        "A": "Ein Bildungsprogramm",
+        "B": "Ein Reformpaket für Arbeitsmarkt und Sozialsysteme",
+        "C": "Ein Umweltprogramm",
+        "D": "Ein Außenpolitikprogramm"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Agenda 2010 reformed labor and welfare."
+    },
+    {
+      "id": 176,
+      "text_de": "Welches Ereignis führte zur Teilung Deutschlands nach dem Zweiten Weltkrieg?",
+      "options": {
+        "A": "Die Wiedervereinigung",
+        "B": "Der Kalte Krieg",
+        "C": "Die Weimarer Republik",
+        "D": "Die Wirtschaftswunder-Zeit"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Kalter Krieg caused Germany’s division."
+    },
+    {
+      "id": 177,
+      "text_de": "Was war die 'Stasi' in der DDR?",
+      "options": {
+        "A": "Eine Sportorganisation",
+        "B": "Das Geheimpolizei- und Überwachungssystem",
+        "C": "Eine politische Partei",
+        "D": "Eine Wirtschaftsbehörde"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Stasi was DDR’s secret police."
+    },
+    {
+      "id": 178,
+      "text_de": "Was war die 'Montagsdemonstrationen' in der DDR?",
+      "options": {
+        "A": "Protestbewegungen gegen die Regierung 1989",
+        "B": "Wöchentliche Sportveranstaltungen",
+        "C": "Kulturelle Veranstaltungen in Leipzig",
+        "D": "Wirtschaftsproteste in den 1970er Jahren"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Montagsdemonstrationen were 1989 protests."
+    },
+    {
+      "id": 179,
+      "text_de": "Wer war Helmut Kohl?",
+      "options": {
+        "A": "Ein Präsident der DDR",
+        "B": "Ein Bundeskanzler der BRD",
+        "C": "Ein Führer der NSDAP",
+        "D": "Ein Minister der Weimarer Republik"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Helmut Kohl was Kanzler (1982–1998)."
+    },
+    {
+      "id": 180,
+      "text_de": "Was war die 'Grundrechte' in der DDR?",
+      "options": {
+        "A": "Sie waren ähnlich wie in der BRD garantiert.",
+        "B": "Sie waren stark eingeschränkt.",
+        "C": "Es gab keine Grundrechte.",
+        "D": "Sie galten nur für Parteimitglieder."
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; DDR restricted basic rights."
+    },
+    {
+      "id": 181,
+      "text_de": "Was war die 'Wende' in Deutschland?",
+      "options": {
+        "A": "Die Einführung des Euro",
+        "B": "Die Wiedervereinigung 1990",
+        "C": "Die Wirtschaftskrise der 1920er Jahre",
+        "D": "Die Machtübernahme der NSDAP"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Wende refers to reunification process."
+    },
+    {
+      "id": 182,
+      "text_de": "Welches Land war nach dem Zweiten Weltkrieg eine Besatzungsmacht in Deutschland?",
+      "options": {
+        "A": "Italien",
+        "B": "Sowjetunion",
+        "C": "Schweiz",
+        "D": "Österreich"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Sowjetunion was an occupying power."
+    },
+    {
+      "id": 183,
+      "text_de": "Was war die 'Nürnberger Prozesse'?",
+      "options": {
+        "A": "Prozesse gegen Nazi-Kriegsverbrecher",
+        "B": "Wirtschaftsverhandlungen nach dem Krieg",
+        "C": "Friedensverhandlungen 1945",
+        "D": "Prozesse gegen DDR-Funktionäre"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Nürnberger Prozesse tried Nazi war criminals."
+    },
+    {
+      "id": 184,
+      "text_de": "Was war die 'Entnazifizierung' in Deutschland?",
+      "options": {
+        "A": "Die Wiedereinführung der Monarchie",
+        "B": "Die Entfernung von Nazi-Ideologie und -Funktionären",
+        "C": "Die Einführung der Demokratie in der DDR",
+        "D": "Die Wirtschaftsreform nach dem Krieg"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Entnazifizierung removed Nazi influence."
+    },
+    {
+      "id": 185,
+      "text_de": "Was war die 'Potsdamer Konferenz'?",
+      "options": {
+        "A": "Eine Konferenz zur Wiedervereinigung",
+        "B": "Eine Besprechung der Alliierten 1945",
+        "C": "Eine Wirtschaftskonferenz 1950",
+        "D": "Eine Friedenskonferenz 1919"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Potsdamer Konferenz (1945) planned post-war Germany."
+    },
+    {
+      "id": 186,
+      "text_de": "Was war die 'Marschallplan'?",
+      "options": {
+        "A": "Ein Wiederaufbauprogramm der USA für Europa",
+        "B": "Ein Militärplan der Sowjetunion",
+        "C": "Ein Bildungsprogramm der BRD",
+        "D": "Ein Wirtschaftsplan der DDR"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Marshallplan aided European recovery."
+    },
+    {
+      "id": 187,
+      "text_de": "Was war die 'Luftbrücke' in Berlin?",
+      "options": {
+        "A": "Ein Handelsabkommen",
+        "B": "Die Versorgung Westberlins per Flugzeug 1948–1949",
+        "C": "Ein Kulturprogramm",
+        "D": "Eine Evakuierungsaktion"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Luftbrücke supplied West Berlin during blockade."
+    },
+    {
+      "id": 188,
+      "text_de": "Was war die 'Volksaufstand' von 1953 in der DDR?",
+      "options": {
+        "A": "Ein Protest gegen Arbeitsbedingungen",
+        "B": "Eine Feier zur DDR-Gründung",
+        "C": "Ein Sportevent",
+        "D": "Eine Wahlkampagne"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Aufstand on June 17, 1953, protested work conditions."
+    },
+    {
+      "id": 189,
+      "text_de": "Was war die 'Brandt’sche Kniefall'?",
+      "options": {
+        "A": "Ein Sportereignis",
+        "B": "Willy Brandts Geste der Versöhnung in Warschau",
+        "C": "Eine politische Rede",
+        "D": "Ein Wirtschaftsabkommen"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Kniefall (1970) symbolized reconciliation."
+    },
+    {
+      "id": 190,
+      "text_de": "Was war die 'Hartz-Reformen' in Deutschland?",
+      "options": {
+        "A": "Reformen des Bildungssystems",
+        "B": "Reformen des Arbeitsmarktes und Sozialsystems",
+        "C": "Reformen der Außenpolitik",
+        "D": "Reformen der Verteidigung"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Hartz-Reformen (2003–2005) overhauled labor market."
+    },
+    {
+      "id": 191,
+      "text_de": "Was war die 'Energiewende' in Deutschland?",
+      "options": {
+        "A": "Die Einführung des Euro",
+        "B": "Der Ausbau erneuerbarer Energien",
+        "C": "Die Wiedervereinigung",
+        "D": "Die Wirtschaftskrise"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Energiewende promotes renewable energy."
+    },
+    {
+      "id": 192,
+      "text_de": "Was war die 'Gastarbeiter' in Deutschland?",
+      "options": {
+        "A": "Arbeitnehmer aus dem Ausland in den 1950er–1970er Jahren",
+        "B": "Saisonarbeiter in der Landwirtschaft",
+        "C": "Freiwillige Helfer nach dem Krieg",
+        "D": "Arbeiter in der DDR"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Gastarbeiter were foreign workers post-WWII."
+    },
+    {
+      "id": 193,
+      "text_de": "Was ist die 'Vergangenheitsbewältigung' in Deutschland?",
+      "options": {
+        "A": "Der Umgang mit der NS-Vergangenheit",
+        "B": "Die Wirtschaftsreform",
+        "C": "Die Wiedervereinigung",
+        "D": "Die Bildungsreform"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Vergangenheitsbewältigung addresses Nazi history."
+    },
+    {
+      "id": 194,
+      "text_de": "Was war die 'Adenauer-Ära' in Deutschland?",
+      "options": {
+        "A": "Die Zeit der Wiedervereinigung",
+        "B": "Die Regierungszeit von Konrad Adenauer",
+        "C": "Die Wirtschaftskrise der 1920er Jahre",
+        "D": "Die Zeit der DDR"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Adenauer-Ära was 1949–1963."
+    },
+    {
+      "id": 195,
+      "text_de": "Was war die 'Schuman-Plan'?",
+      "options": {
+        "A": "Ein Plan zur Wiedervereinigung",
+        "B": "Die Grundlage für die Europäische Gemeinschaft",
+        "C": "Ein Wirtschaftsplan der DDR",
+        "D": "Ein Militärplan der BRD"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Schuman-Plan (1950) led to European integration."
+    },
+    {
+      "id": 196,
+      "text_de": "Was war die 'Hallstein-Doktrin'?",
+      "options": {
+        "A": "Eine Bildungspolitik",
+        "B": "Eine Außenpolitik der BRD",
+        "C": "Eine Wirtschaftspolitik",
+        "D": "Eine DDR-Politik"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Hallstein-Doktrin isolated DDR diplomatically."
+    },
+    {
+      "id": 197,
+      "text_de": "Was war die '68er-Bewegung' in Deutschland?",
+      "options": {
+        "A": "Eine Wirtschaftsreform",
+        "B": "Eine Studenten- und Protestbewegung",
+        "C": "Eine Militärreform",
+        "D": "Eine Wiedervereinigungsbewegung"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; 68er-Bewegung was a student protest movement."
+    },
+    {
+      "id": 198,
+      "text_de": "Was war die 'Brandt-Reformen'?",
+      "options": {
+        "A": "Reformen in der Bildung",
+        "B": "Soziale und politische Reformen unter Willy Brandt",
+        "C": "Wirtschaftsreformen in der DDR",
+        "D": "Militärreformen"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Brandt’s reforms modernized society."
+    },
+    {
+      "id": 199,
+      "text_de": "Was war die 'Kohl-Ära' in Deutschland?",
+      "options": {
+        "A": "Die Zeit der Wiedervereinigung unter Helmut Kohl",
+        "B": "Die Zeit der Wirtschaftskrise",
+        "C": "Die Zeit der DDR",
+        "D": "Die Zeit der Weimarer Republik"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Kohl-Ära (1982–1998) included reunification."
+    },
+    {
+      "id": 200,
+      "text_de": "Was war die 'Schröder-Reformen'?",
+      "options": {
+        "A": "Reformen der Außenpolitik",
+        "B": "Arbeitsmarkt- und Sozialreformen unter Gerhard Schröder",
+        "C": "Bildungsreformen",
+        "D": "Militärreformen"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Schröder’s reforms included Agenda 2010."
     }
   ]
 }
