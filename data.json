@@ -2799,6 +2799,706 @@
       "category": "History",
       "bundesland": "General",
       "note": "BAMF catalog; Schröder’s reforms included Agenda 2010."
+    },
+    {
+      "id": 201,
+      "text_de": "Was ist die Europäische Union (EU)?",
+      "options": {
+        "A": "Ein militärischer Zusammenschluss",
+        "B": "Ein Zusammenschluss europäischer Staaten zur politischen und wirtschaftlichen Zusammenarbeit",
+        "C": "Eine Sportorganisation",
+        "D": "Eine kulturelle Vereinigung"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; EU is a political and economic union."
+    },
+    {
+      "id": 202,
+      "text_de": "Welches Land ist kein Mitglied der Europäischen Union?",
+      "options": {
+        "A": "Deutschland",
+        "B": "Frankreich",
+        "C": "Norwegen",
+        "D": "Spanien"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Norwegen is not an EU member."
+    },
+    {
+      "id": 203,
+      "text_de": "Welches Symbol gehört zur Europäischen Union?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "B",
+      "category": "Symbols",
+      "bundesland": "General",
+      "note": "BAMF catalog; EU flag (blue with yellow stars) is typically Bild 2."
+    },
+    {
+      "id": 204,
+      "text_de": "Was ist das Europäische Parlament?",
+      "options": {
+        "A": "Eine Gerichtsbehörde der EU",
+        "B": "Das gesetzgebende Organ der EU",
+        "C": "Eine Wirtschaftsorganisation",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Europäisches Parlament makes EU laws."
+    },
+    {
+      "id": 205,
+      "text_de": "Wo hat das Europäische Parlament seinen Sitz?",
+      "options": {
+        "A": "Berlin",
+        "B": "Straßburg",
+        "C": "Rom",
+        "D": "Wien"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Straßburg is the main seat."
+    },
+    {
+      "id": 206,
+      "text_de": "Was ist der Euro?",
+      "options": {
+        "A": "Die Währung der NATO",
+        "B": "Die gemeinsame Währung vieler EU-Länder",
+        "C": "Eine europäische Sporttrophäe",
+        "D": "Ein Kulturpreis der EU"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Euro is the EU’s common currency."
+    },
+    {
+      "id": 207,
+      "text_de": "Was ist die NATO?",
+      "options": {
+        "A": "Eine Wirtschaftsorganisation",
+        "B": "Ein militärisches Bündnis",
+        "C": "Eine Kulturorganisation",
+        "D": "Eine politische Partei"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; NATO is a military alliance."
+    },
+    {
+      "id": 208,
+      "text_de": "Welches Land ist kein Mitglied der NATO?",
+      "options": {
+        "A": "Deutschland",
+        "B": "USA",
+        "C": "Russland",
+        "D": "Türkei"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Russland is not a NATO member."
+    },
+    {
+      "id": 209,
+      "text_de": "Was ist die UNO?",
+      "options": {
+        "A": "Eine Sportorganisation",
+        "B": "Die Vereinten Nationen",
+        "C": "Eine Wirtschaftsunion",
+        "D": "Eine europäische Institution"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; UNO is the United Nations."
+    },
+    {
+      "id": 210,
+      "text_de": "Was ist das Hauptziel der UNO?",
+      "options": {
+        "A": "Wirtschaftswachstum fördern",
+        "B": "Frieden und internationale Zusammenarbeit sichern",
+        "C": "Sportveranstaltungen organisieren",
+        "D": "Kulturelle Programme fördern"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; UNO aims for peace and cooperation."
+    },
+    {
+      "id": 211,
+      "text_de": "Was ist die Bundesversammlung in Deutschland?",
+      "options": {
+        "A": "Das Parlament der Bundesländer",
+        "B": "Das Gremium zur Wahl des Bundespräsidenten",
+        "C": "Die Regierung der Bundesländer",
+        "D": "Ein Gericht"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesversammlung elects the Bundespräsident."
+    },
+    {
+      "id": 212,
+      "text_de": "Wer gehört zur Bundesversammlung in Deutschland?",
+      "options": {
+        "A": "Die Abgeordneten des Bundestages und eine gleiche Anzahl von Landesvertretern",
+        "B": "Die Minister der Bundesregierung",
+        "C": "Die Bürgermeister der Städte",
+        "D": "Die Richter des Bundesverfassungsgerichtes"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesversammlung includes Bundestag and state reps."
+    },
+    {
+      "id": 213,
+      "text_de": "Was ist die 'Schengen-Zone'?",
+      "options": {
+        "A": "Ein Wirtschaftsraum der EU",
+        "B": "Ein Gebiet ohne Grenzkontrollen in Europa",
+        "C": "Ein Militärbündnis",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Schengen-Zone allows free movement."
+    },
+    {
+      "id": 214,
+      "text_de": "Welches Land gehört nicht zur Schengen-Zone?",
+      "options": {
+        "A": "Deutschland",
+        "B": "Irland",
+        "C": "Frankreich",
+        "D": "Italien"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Irland is not fully in Schengen."
+    },
+    {
+      "id": 215,
+      "text_de": "Was ist der 'Europäische Gerichtshof'?",
+      "options": {
+        "A": "Ein Sportgericht",
+        "B": "Das oberste Gericht der EU",
+        "C": "Eine Wirtschaftsbehörde",
+        "D": "Ein Bildungsinstitut"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Europäischer Gerichtshof is EU’s highest court."
+    },
+    {
+      "id": 216,
+      "text_de": "Was ist die 'Europäische Kommission'?",
+      "options": {
+        "A": "Das Parlament der EU",
+        "B": "Die Exekutive der EU",
+        "C": "Ein Gericht der EU",
+        "D": "Eine Sportorganisation"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Europäische Kommission is EU’s executive."
+    },
+    {
+      "id": 217,
+      "text_de": "Was ist die 'Europäische Zentralbank'?",
+      "options": {
+        "A": "Eine Kulturbehörde",
+        "B": "Die Bank, die den Euro verwaltet",
+        "C": "Eine Sportorganisation",
+        "D": "Ein Bildungsinstitut"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; EZB manages the Euro."
+    },
+    {
+      "id": 218,
+      "text_de": "Welches Land war 2023 Vorsitzland des Europäischen Rates?",
+      "options": {
+        "A": "Deutschland",
+        "B": "Schweden",
+        "C": "Italien",
+        "D": "Polen"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Schweden held EU Council presidency in 2023."
+    },
+    {
+      "id": 219,
+      "text_de": "Was ist die 'Charta der Grundrechte' der EU?",
+      "options": {
+        "A": "Ein Wirtschaftsvertrag",
+        "B": "Ein Dokument, das die Grundrechte der EU-Bürger festhält",
+        "C": "Ein Militärabkommen",
+        "D": "Ein Sportregelwerk"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Charta defines EU citizens’ rights."
+    },
+    {
+      "id": 220,
+      "text_de": "Was ist die 'Lissabon-Vertrag'?",
+      "options": {
+        "A": "Ein Handelsabkommen",
+        "B": "Ein Vertrag zur Reform der EU",
+        "C": "Ein Friedensvertrag",
+        "D": "Ein Kulturabkommen"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Lissabon-Vertrag (2009) reformed EU structures."
+    },
+    {
+      "id": 221,
+      "text_de": "Was ist die 'Maastricht-Vertrag'?",
+      "options": {
+        "A": "Ein Vertrag zur Gründung der EU",
+        "B": "Ein Wirtschaftsvertrag",
+        "C": "Ein Militärvertrag",
+        "D": "Ein Kulturvertrag"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Maastricht-Vertrag (1992) established the EU."
+    },
+    {
+      "id": 222,
+      "text_de": "Was ist die 'Römische Verträge'?",
+      "options": {
+        "A": "Verträge zur Gründung der Europäischen Wirtschaftsgemeinschaft",
+        "B": "Verträge zur Wiedervereinigung",
+        "C": "Verträge zur NATO-Gründung",
+        "D": "Verträge zur UNO-Gründung"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Römische Verträge (1957) founded EWG."
+    },
+    {
+      "id": 223,
+      "text_de": "Was ist die 'Freiheit der Niederlassung' in der EU?",
+      "options": {
+        "A": "Das Recht, in jedem EU-Land zu arbeiten und zu leben",
+        "B": "Das Recht, überall Steuern zu zahlen",
+        "C": "Das Recht, überall zu wählen",
+        "D": "Das Recht, überall zu studieren"
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Niederlassungsfreiheit allows living and working in EU."
+    },
+    {
+      "id": 224,
+      "text_de": "Was ist die 'Freizügigkeit' in der EU?",
+      "options": {
+        "A": "Das Recht, frei zu reisen und in der EU zu leben",
+        "B": "Das Recht, überall Steuern zu zahlen",
+        "C": "Das Recht, überall zu wählen",
+        "D": "Das Recht, überall zu studieren"
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Freizügigkeit allows free movement in EU."
+    },
+    {
+      "id": 225,
+      "text_de": "Was ist die 'Bürgerinitiative' in der EU?",
+      "options": {
+        "A": "Ein Programm für Sport",
+        "B": "Ein Mechanismus, um EU-Gesetze vorzuschlagen",
+        "C": "Ein Wirtschaftsprogramm",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bürgerinitiative allows citizens to propose laws."
+    },
+    {
+      "id": 226,
+      "text_de": "Was ist die 'Europawahl'?",
+      "options": {
+        "A": "Die Wahl des Europäischen Parlamentes",
+        "B": "Die Wahl der nationalen Parlamente",
+        "C": "Die Wahl der Bundeskanzlerin/des Bundeskanzlers",
+        "D": "Die Wahl der Kommunalvertreter"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Europawahl elects EU Parliament."
+    },
+    {
+      "id": 227,
+      "text_de": "Wer darf an der Europawahl teilnehmen?",
+      "options": {
+        "A": "Alle Bürger der EU ab 18 Jahren",
+        "B": "Nur Bürger der Gründungsstaaten",
+        "C": "Alle Bürger ab 16 Jahren",
+        "D": "Nur Politiker"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; EU citizens 18+ can vote (16 in some countries)."
+    },
+    {
+      "id": 228,
+      "text_de": "Was ist die 'Europäische Menschenrechtskonvention'?",
+      "options": {
+        "A": "Ein Wirtschaftsvertrag",
+        "B": "Ein Vertrag zum Schutz der Menschenrechte",
+        "C": "Ein Militärabkommen",
+        "D": "Ein Sportregelwerk"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Konvention protects human rights."
+    },
+    {
+      "id": 229,
+      "text_de": "Was ist der 'Europäische Rat'?",
+      "options": {
+        "A": "Das Parlament der EU",
+        "B": "Das Gremium der Staats- und Regierungschefs der EU",
+        "C": "Ein Gericht",
+        "D": "Eine Sportorganisation"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Europäischer Rat includes EU leaders."
+    },
+    {
+      "id": 230,
+      "text_de": "Was ist die 'Blaue Karte' der EU?",
+      "options": {
+        "A": "Eine Krankenversicherung",
+        "B": "Eine Arbeitserlaubnis für hochqualifizierte Nicht-EU-Bürger",
+        "C": "Eine Reisekarte",
+        "D": "Eine Sportauszeichnung"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Blaue Karte is for skilled non-EU workers."
+    },
+    {
+      "id": 231,
+      "text_de": "Was ist die 'Europäische Bürgerschaft'?",
+      "options": {
+        "A": "Die Staatsangehörigkeit eines EU-Landes",
+        "B": "Rechte und Pflichten für EU-Bürger",
+        "C": "Ein Wirtschaftsprogramm",
+        "D": "Ein Sportprogramm"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; EU citizenship grants specific rights."
+    },
+    {
+      "id": 232,
+      "text_de": "Was ist die 'Europäische Integration'?",
+      "options": {
+        "A": "Die Vereinigung von Sportverbänden",
+        "B": "Die engere Zusammenarbeit der EU-Staaten",
+        "C": "Die Einführung des Euro",
+        "D": "Die Wiedervereinigung Deutschlands"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Integration deepens EU cooperation."
+    },
+    {
+      "id": 233,
+      "text_de": "Was ist die 'Europäische Verfassung'?",
+      "options": {
+        "A": "Ein Vertrag, der nie in Kraft trat",
+        "B": "Die Grundlage der EU",
+        "C": "Ein Wirtschaftsvertrag",
+        "D": "Ein Militärvertrag"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; EU-Verfassung (2004) was never ratified."
+    },
+    {
+      "id": 234,
+      "text_de": "Was ist die 'Europäische Wirtschaftsgemeinschaft' (EWG)?",
+      "options": {
+        "A": "Die Vorgängerin der EU",
+        "B": "Eine Sportorganisation",
+        "C": "Ein Militärbündnis",
+        "D": "Eine Kulturorganisation"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; EWG was a precursor to the EU."
+    },
+    {
+      "id": 235,
+      "text_de": "Was ist die 'Europäische Gemeinschaft für Kohle und Stahl' (EGKS)?",
+      "options": {
+        "A": "Eine Vorläuferin der EU",
+        "B": "Eine Wirtschaftskrise",
+        "C": "Eine Sportorganisation",
+        "D": "Eine Wiedervereinigungsbewegung"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; EGKS (1951) was an EU predecessor."
+    },
+    {
+      "id": 236,
+      "text_de": "Was ist die 'Europäische Atomgemeinschaft' (EURATOM)?",
+      "options": {
+        "A": "Eine Organisation für nukleare Zusammenarbeit",
+        "B": "Ein Wirtschaftsvertrag",
+        "C": "Ein Sportverband",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; EURATOM promotes nuclear cooperation."
+    },
+    {
+      "id": 237,
+      "text_de": "Was ist die 'Gemeinsame Agrarpolitik' der EU?",
+      "options": {
+        "A": "Ein Programm für Landwirtschaft",
+        "B": "Ein Militärprogramm",
+        "C": "Ein Bildungsprogramm",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Agrarpolitik supports EU agriculture."
+    },
+    {
+      "id": 238,
+      "text_de": "Was ist die 'Gemeinsame Außen- und Sicherheitspolitik' der EU?",
+      "options": {
+        "A": "Ein Wirtschaftsprogramm",
+        "B": "Eine Koordinierung der Außen- und Verteidigungspolitik",
+        "C": "Ein Sportprogramm",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; GASP coordinates EU foreign policy."
+    },
+    {
+      "id": 239,
+      "text_de": "Was ist die 'Europäische Nachbarschaftspolitik'?",
+      "options": {
+        "A": "Ein Programm für Nachbarländer der EU",
+        "B": "Ein Wirtschaftsprogramm",
+        "C": "Ein Sportprogramm",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Nachbarschaftspolitik engages EU neighbors."
+    },
+    {
+      "id": 240,
+      "text_de": "Was ist das 'Erasmus-Programm' der EU?",
+      "options": {
+        "A": "Ein Wirtschaftsprogramm",
+        "B": "Ein Austauschprogramm für Studenten",
+        "C": "Ein Militärprogramm",
+        "D": "Ein Sportprogramm"
+      },
+      "correct_answer": "B",
+      "category": "Education",
+      "bundesland": "General",
+      "note": "BAMF catalog; Erasmus supports student exchanges."
+    },
+    {
+      "id": 241,
+      "text_de": "Was ist die 'Europäische Sozialcharta'?",
+      "options": {
+        "A": "Ein Vertrag für soziale Rechte",
+        "B": "Ein Wirtschaftsvertrag",
+        "C": "Ein Militärvertrag",
+        "D": "Ein Sportvertrag"
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Sozialcharta protects social rights."
+    },
+    {
+      "id": 242,
+      "text_de": "Was ist die 'Europäische Währungsunion'?",
+      "options": {
+        "A": "Ein Militärbündnis",
+        "B": "Die Einführung des Euro als gemeinsame Währung",
+        "C": "Ein Sportprogramm",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Währungsunion introduced the Euro."
+    },
+    {
+      "id": 243,
+      "text_de": "Was ist die 'Europäische Bürgerbeauftragte'?",
+      "options": {
+        "A": "Eine Person, die Beschwerden gegen EU-Institutionen prüft",
+        "B": "Eine Sportbeauftragte",
+        "C": "Eine Wirtschaftsbeauftragte",
+        "D": "Eine Kulturbeauftragte"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bürgerbeauftragte handles EU complaints."
+    },
+    {
+      "id": 244,
+      "text_de": "Was ist die 'Europäische Investitionsbank'?",
+      "options": {
+        "A": "Eine Bank für EU-Projekte",
+        "B": "Eine Sportorganisation",
+        "C": "Ein Militärprogramm",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Investitionsbank funds EU projects."
+    },
+    {
+      "id": 245,
+      "text_de": "Was ist die 'Europäische Datenschutzverordnung' (DSGVO)?",
+      "options": {
+        "A": "Ein Sportregelwerk",
+        "B": "Ein Gesetz zum Schutz personenbezogener Daten",
+        "C": "Ein Wirtschaftsvertrag",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; DSGVO protects personal data."
+    },
+    {
+      "id": 246,
+      "text_de": "Was ist die 'Europäische Umweltpolitik'?",
+      "options": {
+        "A": "Ein Programm für Umwelt- und Klimaschutz",
+        "B": "Ein Wirtschaftsprogramm",
+        "C": "Ein Sportprogramm",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Umweltpolitik promotes environmental protection."
+    },
+    {
+      "id": 247,
+      "text_de": "Was ist die 'Europäische Raumfahrtagentur' (ESA)?",
+      "options": {
+        "A": "Eine Wirtschaftsorganisation",
+        "B": "Eine Agentur für Weltraumforschung",
+        "C": "Eine Sportorganisation",
+        "D": "Eine Kulturorganisation"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; ESA conducts space research."
+    },
+    {
+      "id": 248,
+      "text_de": "Was ist die 'Europäische Grundrechtecharta'?",
+      "options": {
+        "A": "Ein Wirtschaftsvertrag",
+        "B": "Ein Dokument für Bürgerrechte in der EU",
+        "C": "Ein Militärvertrag",
+        "D": "Ein Sportregelwerk"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; same as Aufgabe 219, defines EU rights."
+    },
+    {
+      "id": 249,
+      "text_de": "Was ist die 'Europäische Sicherheits- und Verteidigungspolitik'?",
+      "options": {
+        "A": "Ein Wirtschaftsprogramm",
+        "B": "Eine Politik für gemeinsame Verteidigung",
+        "C": "Ein Sportprogramm",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Verteidigungspolitik enhances EU security."
+    },
+    {
+      "id": 250,
+      "text_de": "Was ist die 'Europäische Sozialpolitik'?",
+      "options": {
+        "A": "Ein Programm für soziale Gerechtigkeit und Arbeitsrechte",
+        "B": "Ein Wirtschaftsprogramm",
+        "C": "Ein Sportprogramm",
+        "D": "Ein Kulturprogramm"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Sozialpolitik promotes social justice."
     }
   ]
 }
