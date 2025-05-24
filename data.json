@@ -4199,6 +4199,706 @@
       "category": "Society",
       "bundesland": "General",
       "note": "BAMF catalog; Umweltbundesamt protects environment."
+    },
+    {
+      "id": 301,
+      "text_de": "Welches Bild zeigt das Wappen von Baden-Württemberg?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "A",
+      "category": "Symbols",
+      "bundesland": "Baden-Württemberg",
+      "note": "BAMF catalog; Baden-Württemberg’s wappen (three lions) is typically Bild 1."
+    },
+    {
+      "id": 302,
+      "text_de": "Was ist die Hauptstadt von Baden-Württemberg?",
+      "options": {
+        "A": "Freiburg",
+        "B": "Stuttgart",
+        "C": "Karlsruhe",
+        "D": "Heidelberg"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Baden-Württemberg",
+      "note": "BAMF catalog; Stuttgart is the capital."
+    },
+    {
+      "id": 303,
+      "text_de": "Welches historische Ereignis ist mit Baden-Württemberg verbunden?",
+      "options": {
+        "A": "Die Gründung der BRD",
+        "B": "Die Badische Revolution 1848/49",
+        "C": "Die Wiedervereinigung",
+        "D": "Der Mauerfall"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "Baden-Württemberg",
+      "note": "BAMF catalog; Badische Revolution was a key event."
+    },
+    {
+      "id": 304,
+      "text_de": "Wer ist der Ministerpräsident von Baden-Württemberg?",
+      "options": {
+        "A": "Winfried Kretschmann",
+        "B": "Markus Söder",
+        "C": "Malu Dreyer",
+        "D": "Bodo Ramelow"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Baden-Württemberg",
+      "note": "BAMF catalog; Kretschmann (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 305,
+      "text_de": "Welche Stadt in Baden-Württemberg ist bekannt für ihre Automobilindustrie?",
+      "options": {
+        "A": "Freiburg",
+        "B": "Stuttgart",
+        "C": "Mannheim",
+        "D": "Ulm"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Baden-Württemberg",
+      "note": "BAMF catalog; Stuttgart hosts Mercedes-Benz and Porsche."
+    },
+    {
+      "id": 306,
+      "text_de": "Welcher Fluss fließt durch Baden-Württemberg?",
+      "options": {
+        "A": "Elbe",
+        "B": "Rhein",
+        "C": "Weser",
+        "D": "Saale"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Baden-Württemberg",
+      "note": "BAMF catalog; Rhein is a major river in the state."
+    },
+    {
+      "id": 307,
+      "text_de": "Welches Gebirge liegt teilweise in Baden-Württemberg?",
+      "options": {
+        "A": "Alpen",
+        "B": "Schwarzwald",
+        "C": "Erzgebirge",
+        "D": "Harz"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Baden-Württemberg",
+      "note": "BAMF catalog; Schwarzwald is iconic to the state."
+    },
+    {
+      "id": 308,
+      "text_de": "Welche Universität in Baden-Württemberg ist eine der ältesten Deutschlands?",
+      "options": {
+        "A": "Universität Freiburg",
+        "B": "Universität Heidelberg",
+        "C": "Universität Stuttgart",
+        "D": "Universität Konstanz"
+      },
+      "correct_answer": "B",
+      "category": "Education",
+      "bundesland": "Baden-Württemberg",
+      "note": "BAMF catalog; Heidelberg, founded 1386, is among the oldest."
+    },
+    {
+      "id": 309,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Baden-Württemberg?",
+      "options": {
+        "A": "Oktoberfest",
+        "B": "Fasnet (Schwäbisch-Alemannische Fastnacht)",
+        "C": "Karneval",
+        "D": "Schützenfest"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "Baden-Württemberg",
+      "note": "BAMF catalog; Fasnet is a traditional carnival."
+    },
+    {
+      "id": 310,
+      "text_de": "Welches Bundesland grenzt an Baden-Württemberg und die Schweiz?",
+      "options": {
+        "A": "Bayern",
+        "B": "Hessen",
+        "C": "Rheinland-Pfalz",
+        "D": "Saarland"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Baden-Württemberg",
+      "note": "BAMF catalog; Bayern borders both."
+    },
+    {
+      "id": 311,
+      "text_de": "Welches Bild zeigt das Wappen von Bayern?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "B",
+      "category": "Symbols",
+      "bundesland": "Bayern",
+      "note": "BAMF catalog; Bayern’s wappen (lions and lozenges) is typically Bild 2."
+    },
+    {
+      "id": 312,
+      "text_de": "Was ist die Hauptstadt von Bayern?",
+      "options": {
+        "A": "Nürnberg",
+        "B": "München",
+        "C": "Augsburg",
+        "D": "Regensburg"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Bayern",
+      "note": "BAMF catalog; München is the capital."
+    },
+    {
+      "id": 313,
+      "text_de": "Welches historische Ereignis ist mit Bayern verbunden?",
+      "options": {
+        "A": "Die Bayerische Räterepublik 1919",
+        "B": "Die Wiedervereinigung",
+        "C": "Der Mauerfall",
+        "D": "Die Gründung der DDR"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Bayern",
+      "note": "BAMF catalog; Räterepublik was a short-lived socialist state."
+    },
+    {
+      "id": 314,
+      "text_de": "Wer ist der Ministerpräsident von Bayern?",
+      "options": {
+        "A": "Winfried Kretschmann",
+        "B": "Markus Söder",
+        "C": "Malu Dreyer",
+        "D": "Bodo Ramelow"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "Bayern",
+      "note": "BAMF catalog; Söder (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 315,
+      "text_de": "Welche Stadt in Bayern ist bekannt für ihre Automobilindustrie?",
+      "options": {
+        "A": "München",
+        "B": "Nürnberg",
+        "C": "Ingolstadt",
+        "D": "Regensburg"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "Bayern",
+      "note": "BAMF catalog; München hosts BMW."
+    },
+    {
+      "id": 316,
+      "text_de": "Welcher Fluss fließt durch Bayern?",
+      "options": {
+        "A": "Elbe",
+        "B": "Donau",
+        "C": "Weser",
+        "D": "Saale"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Bayern",
+      "note": "BAMF catalog; Donau is a major river in Bayern."
+    },
+    {
+      "id": 317,
+      "text_de": "Welches Gebirge liegt in Bayern?",
+      "options": {
+        "A": "Schwarzwald",
+        "B": "Alpen",
+        "C": "Erzgebirge",
+        "D": "Harz"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Bayern",
+      "note": "BAMF catalog; Alpen are iconic to Bayern."
+    },
+    {
+      "id": 318,
+      "text_de": "Welche Universität in Bayern ist besonders bekannt?",
+      "options": {
+        "A": "Universität Nürnberg",
+        "B": "Universität München (LMU)",
+        "C": "Universität Augsburg",
+        "D": "Universität Passau"
+      },
+      "correct_answer": "B",
+      "category": "Education",
+      "bundesland": "Bayern",
+      "note": "BAMF catalog; LMU München is renowned."
+    },
+    {
+      "id": 319,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Bayern?",
+      "options": {
+        "A": "Fasnet",
+        "B": "Oktoberfest",
+        "C": "Karneval",
+        "D": "Schützenfest"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "Bayern",
+      "note": "BAMF catalog; Oktoberfest is a global tradition."
+    },
+    {
+      "id": 320,
+      "text_de": "Welches Bundesland grenzt an Bayern und Österreich?",
+      "options": {
+        "A": "Baden-Württemberg",
+        "B": "Hessen",
+        "C": "Thüringen",
+        "D": "Sachsen"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Bayern",
+      "note": "BAMF catalog; Baden-Württemberg borders both."
+    },
+    {
+      "id": 321,
+      "text_de": "Welches Bild zeigt das Wappen von Berlin?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "C",
+      "category": "Symbols",
+      "bundesland": "Berlin",
+      "note": "BAMF catalog; Berlin’s wappen (bear) is typically Bild 3."
+    },
+    {
+      "id": 322,
+      "text_de": "Was ist die Hauptstadt von Berlin?",
+      "options": {
+        "A": "Potsdam",
+        "B": "Berlin",
+        "C": "Spandau",
+        "D": "Charlottenburg"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Berlin",
+      "note": "BAMF catalog; Berlin is both a city and Bundesland."
+    },
+    {
+      "id": 323,
+      "text_de": "Welches historische Ereignis ist mit Berlin verbunden?",
+      "options": {
+        "A": "Die Badische Revolution",
+        "B": "Der Mauerfall 1989",
+        "C": "Die Gründung der BRD",
+        "D": "Die Räterepublik"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "Berlin",
+      "note": "BAMF catalog; Mauerfall is a defining event."
+    },
+    {
+      "id": 324,
+      "text_de": "Wer ist der Regierende Bürgermeister von Berlin?",
+      "options": {
+        "A": "Kai Wegner",
+        "B": "Michael Müller",
+        "C": "Klaus Wowereit",
+        "D": "Franziska Giffey"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Berlin",
+      "note": "BAMF catalog; Wegner (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 325,
+      "text_de": "Welche Stadt in Berlin ist bekannt für ihre Medienindustrie?",
+      "options": {
+        "A": "Kreuzberg",
+        "B": "Mitte",
+        "C": "Neukölln",
+        "D": "Charlottenburg"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Berlin",
+      "note": "BAMF catalog; Mitte hosts media companies."
+    },
+    {
+      "id": 326,
+      "text_de": "Welcher Fluss fließt durch Berlin?",
+      "options": {
+        "A": "Spree",
+        "B": "Elbe",
+        "C": "Rhein",
+        "D": "Donau"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Berlin",
+      "note": "BAMF catalog; Spree is Berlin’s main river."
+    },
+    {
+      "id": 327,
+      "text_de": "Welches Wahrzeichen ist typisch für Berlin?",
+      "options": {
+        "A": "Schloss Neuschwanstein",
+        "B": "Brandenburger Tor",
+        "C": "Kölner Dom",
+        "D": "Schloss Sanssouci"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "Berlin",
+      "note": "BAMF catalog; Brandenburger Tor is iconic."
+    },
+    {
+      "id": 328,
+      "text_de": "Welche Universität in Berlin ist besonders bekannt?",
+      "options": {
+        "A": "Freie Universität Berlin",
+        "B": "Universität Potsdam",
+        "C": "Universität Spandau",
+        "D": "Universität Kreuzberg"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Berlin",
+      "note": "BAMF catalog; Freie Universität is renowned."
+    },
+    {
+      "id": 329,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Berlin?",
+      "options": {
+        "A": "Oktoberfest",
+        "B": "Berlinale (Filmfestival)",
+        "C": "Fasnet",
+        "D": "Karneval"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "Berlin",
+      "note": "BAMF catalog; Berlinale is a major film festival."
+    },
+    {
+      "id": 330,
+      "text_de": "Welches Bundesland grenzt an Berlin?",
+      "options": {
+        "A": "Bayern",
+        "B": "Brandenburg",
+        "C": "Hessen",
+        "D": "Saarland"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Berlin",
+      "note": "BAMF catalog; Brandenburg surrounds Berlin."
+    },
+    {
+      "id": 331,
+      "text_de": "Welches Bild zeigt das Wappen von Brandenburg?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "D",
+      "category": "Symbols",
+      "bundesland": "Brandenburg",
+      "note": "BAMF catalog; Brandenburg’s wappen (eagle) is typically Bild 4."
+    },
+    {
+      "id": 332,
+      "text_de": "Was ist die Hauptstadt von Brandenburg?",
+      "options": {
+        "A": "Potsdam",
+        "B": "Cottbus",
+        "C": "Frankfurt (Oder)",
+        "D": "Brandenburg an der Havel"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Brandenburg",
+      "note": "BAMF catalog; Potsdam is the capital."
+    },
+    {
+      "id": 333,
+      "text_de": "Welches historische Ereignis ist mit Brandenburg verbunden?",
+      "options": {
+        "A": "Die Badische Revolution",
+        "B": "Die Montagsdemonstrationen 1989",
+        "C": "Die Räterepublik",
+        "D": "Die Gründung der BRD"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "Brandenburg",
+      "note": "BAMF catalog; Montagsdemonstrationen were key in DDR."
+    },
+    {
+      "id": 334,
+      "text_de": "Wer ist der Ministerpräsident von Brandenburg?",
+      "options": {
+        "A": "Dietmar Woidke",
+        "B": "Markus Söder",
+        "C": "Winfried Kretschmann",
+        "D": "Bodo Ramelow"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Brandenburg",
+      "note": "BAMF catalog; Woidke (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 335,
+      "text_de": "Welche Stadt in Brandenburg ist bekannt für ihre Filmindustrie?",
+      "options": {
+        "A": "Potsdam",
+        "B": "Cottbus",
+        "C": "Frankfurt (Oder)",
+        "D": "Oranienburg"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "Brandenburg",
+      "note": "BAMF catalog; Potsdam hosts Studio Babelsberg."
+    },
+    {
+      "id": 336,
+      "text_de": "Welcher Fluss fließt durch Brandenburg?",
+      "options": {
+        "A": "Spree",
+        "B": "Rhein",
+        "C": "Donau",
+        "D": "Weser"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Brandenburg",
+      "note": "BAMF catalog; Spree is a major river."
+    },
+    {
+      "id": 337,
+      "text_de": "Welches Wahrzeichen ist typisch für Brandenburg?",
+      "options": {
+        "A": "Schloss Sanssouci",
+        "B": "Brandenburger Tor",
+        "C": "Kölner Dom",
+        "D": "Schloss Neuschwanstein"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Brandenburg",
+      "note": "BAMF catalog; Schloss Sanssouci in Potsdam is iconic."
+    },
+    {
+      "id": 338,
+      "text_de": "Welche Universität in Brandenburg ist besonders bekannt?",
+      "options": {
+        "A": "Universität Potsdam",
+        "B": "Universität Cottbus",
+        "C": "Universität Frankfurt (Oder)",
+        "D": "Universität Oranienburg"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Brandenburg",
+      "note": "BAMF catalog; Universität Potsdam is prominent."
+    },
+    {
+      "id": 339,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Brandenburg?",
+      "options": {
+        "A": "Oktoberfest",
+        "B": "Potsdamer Schlössernacht",
+        "C": "Fasnet",
+        "D": "Karneval"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "Brandenburg",
+      "note": "BAMF catalog; Schlössernacht is a cultural highlight."
+    },
+    {
+      "id": 340,
+      "text_de": "Welches Bundesland grenzt an Brandenburg und Polen?",
+      "options": {
+        "A": "Berlin",
+        "B": "Sachsen",
+        "C": "Mecklenburg-Vorpommern",
+        "D": "Niedersachsen"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Brandenburg",
+      "note": "BAMF catalog; Sachsen borders both."
+    },
+    {
+      "id": 341,
+      "text_de": "Welches Bild zeigt das Wappen von Bremen?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "A",
+      "category": "Symbols",
+      "bundesland": "Bremen",
+      "note": "BAMF catalog; Bremen’s wappen (key) is typically Bild 1."
+    },
+    {
+      "id": 342,
+      "text_de": "Was ist die Hauptstadt von Bremen?",
+      "options": {
+        "A": "Bremerhaven",
+        "B": "Bremen",
+        "C": "Oldenburg",
+        "D": "Wilhelmshaven"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Bremen",
+      "note": "BAMF catalog; Bremen is both a city and Bundesland."
+    },
+    {
+      "id": 343,
+      "text_de": "Welches historische Ereignis ist mit Bremen verbunden?",
+      "options": {
+        "A": "Die Badische Revolution",
+        "B": "Die Bremer Räterepublik 1919",
+        "C": "Die Wiedervereinigung",
+        "D": "Der Mauerfall"
+      },
+      "correct_answer": "B",
+      "category": "History",
+      "bundesland": "Bremen",
+      "note": "BAMF catalog; Bremer Räterepublik was a socialist uprising."
+    },
+    {
+      "id": 344,
+      "text_de": "Wer ist der Bürgermeister von Bremen?",
+      "options": {
+        "A": "Andreas Bovenschulte",
+        "B": "Carsten Sieling",
+        "C": "Jens Böhrnsen",
+        "D": "Henning Scherf"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Bremen",
+      "note": "BAMF catalog; Bovenschulte (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 345,
+      "text_de": "Welche Stadt in Bremen ist bekannt für ihren Hafen?",
+      "options": {
+        "A": "Bremen",
+        "B": "Bremerhaven",
+        "C": "Vegesack",
+        "D": "Blumenthal"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Bremen",
+      "note": "BAMF catalog; Bremerhaven is a major port."
+    },
+    {
+      "id": 346,
+      "text_de": "Welcher Fluss fließt durch Bremen?",
+      "options": {
+        "A": "Weser",
+        "B": "Rhein",
+        "C": "Spree",
+        "D": "Donau"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Bremen",
+      "note": "BAMF catalog; Weser is Bremen’s main river."
+    },
+    {
+      "id": 347,
+      "text_de": "Welches Wahrzeichen ist typisch für Bremen?",
+      "options": {
+        "A": "Roland-Statue",
+        "B": "Brandenburger Tor",
+        "C": "Kölner Dom",
+        "D": "Schloss Neuschwanstein"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Bremen",
+      "note": "BAMF catalog; Roland-Statue is a UNESCO site."
+    },
+    {
+      "id": 348,
+      "text_de": "Welche Universität in Bremen ist besonders bekannt?",
+      "options": {
+        "A": "Universität Bremen",
+        "B": "Universität Bremerhaven",
+        "C": "Universität Oldenburg",
+        "D": "Universität Vegesack"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Bremen",
+      "note": "BAMF catalog; Universität Bremen is prominent."
+    },
+    {
+      "id": 349,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Bremen?",
+      "options": {
+        "A": "Oktoberfest",
+        "B": "Bremen Freimarkt",
+        "C": "Fasnet",
+        "D": "Karneval"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "Bremen",
+      "note": "BAMF catalog; Freimarkt is a major festival."
+    },
+    {
+      "id": 350,
+      "text_de": "Welches Bundesland grenzt an Bremen?",
+      "options": {
+        "A": "Niedersachsen",
+        "B": "Hessen",
+        "C": "Sachsen",
+        "D": "Bayern"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Bremen",
+      "note": "BAMF catalog; Niedersachsen surrounds Bremen."
     }
   ]
 }
