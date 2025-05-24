@@ -4899,6 +4899,706 @@
       "category": "Geography",
       "bundesland": "Bremen",
       "note": "BAMF catalog; Niedersachsen surrounds Bremen."
+    },
+    {
+      "id": 351,
+      "text_de": "Welches Bild zeigt das Wappen von Hamburg?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "B",
+      "category": "Symbols",
+      "bundesland": "Hamburg",
+      "note": "BAMF catalog; Hamburg’s wappen (castle) is typically Bild 2."
+    },
+    {
+      "id": 352,
+      "text_de": "Was ist die Hauptstadt von Hamburg?",
+      "options": {
+        "A": "Hamburg",
+        "B": "Altona",
+        "C": "St. Pauli",
+        "D": "Blankenese"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Hamburg",
+      "note": "BAMF catalog; Hamburg is both a city and Bundesland."
+    },
+    {
+      "id": 353,
+      "text_de": "Welches historische Ereignis ist mit Hamburg verbunden?",
+      "options": {
+        "A": "Die Hanse-Gründung",
+        "B": "Die Wiedervereinigung",
+        "C": "Die Badische Revolution",
+        "D": "Der Mauerfall"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Hamburg",
+      "note": "BAMF catalog; Hamburg was a key Hanseatic city."
+    },
+    {
+      "id": 354,
+      "text_de": "Wer ist der Bürgermeister von Hamburg?",
+      "options": {
+        "A": "Peter Tschentscher",
+        "B": "Olaf Scholz",
+        "C": "Henning Voscherau",
+        "D": "Klaus von Dohnanyi"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Hamburg",
+      "note": "BAMF catalog; Tschentscher (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 355,
+      "text_de": "Welche Stadt in Hamburg ist bekannt für ihren Hafen?",
+      "options": {
+        "A": "Altona",
+        "B": "Hamburg",
+        "C": "Eimsbüttel",
+        "D": "Winterhude"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Hamburg",
+      "note": "BAMF catalog; Hamburg’s port is a major economic hub."
+    },
+    {
+      "id": 356,
+      "text_de": "Welcher Fluss fließt durch Hamburg?",
+      "options": {
+        "A": "Elbe",
+        "B": "Weser",
+        "C": "Rhein",
+        "D": "Spree"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Hamburg",
+      "note": "BAMF catalog; Elbe is Hamburg’s main river."
+    },
+    {
+      "id": 357,
+      "text_de": "Welches Wahrzeichen ist typisch für Hamburg?",
+      "options": {
+        "A": "Elbphilharmonie",
+        "B": "Brandenburger Tor",
+        "C": "Kölner Dom",
+        "D": "Schloss Sanssouci"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Hamburg",
+      "note": "BAMF catalog; Elbphilharmonie is iconic."
+    },
+    {
+      "id": 358,
+      "text_de": "Welche Universität in Hamburg ist besonders bekannt?",
+      "options": {
+        "A": "Universität Hamburg",
+        "B": "Universität Altona",
+        "C": "Universität St. Pauli",
+        "D": "Universität Blankenese"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Hamburg",
+      "note": "BAMF catalog; Universität Hamburg is prominent."
+    },
+    {
+      "id": 359,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Hamburg?",
+      "options": {
+        "A": "Hamburger Dom",
+        "B": "Oktoberfest",
+        "C": "Fasnet",
+        "D": "Berlinale"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Hamburg",
+      "note": "BAMF catalog; Hamburger Dom is a major fair."
+    },
+    {
+      "id": 360,
+      "text_de": "Welches Bundesland grenzt an Hamburg?",
+      "options": {
+        "A": "Niedersachsen",
+        "B": "Hessen",
+        "C": "Bayern",
+        "D": "Berlin"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Hamburg",
+      "note": "BAMF catalog; Niedersachsen borders Hamburg."
+    },
+    {
+      "id": 361,
+      "text_de": "Welches Bild zeigt das Wappen von Hessen?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "C",
+      "category": "Symbols",
+      "bundesland": "Hessen",
+      "note": "BAMF catalog; Hessen’s wappen (lion) is typically Bild 3."
+    },
+    {
+      "id": 362,
+      "text_de": "Was ist die Hauptstadt von Hessen?",
+      "options": {
+        "A": "Frankfurt am Main",
+        "B": "Wiesbaden",
+        "C": "Darmstadt",
+        "D": "Kassel"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Hessen",
+      "note": "BAMF catalog; Wiesbaden is the capital."
+    },
+    {
+      "id": 363,
+      "text_de": "Welches historische Ereignis ist mit Hessen verbunden?",
+      "options": {
+        "A": "Die Hessische Verfassung von 1946",
+        "B": "Die Wiedervereinigung",
+        "C": "Der Mauerfall",
+        "D": "Die Räterepublik"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Hessen",
+      "note": "BAMF catalog; Hessen’s 1946 constitution was significant."
+    },
+    {
+      "id": 364,
+      "text_de": "Wer ist der Ministerpräsident von Hessen?",
+      "options": {
+        "A": "Boris Rhein",
+        "B": "Volker Bouffier",
+        "C": "Winfried Kretschmann",
+        "D": "Markus Söder"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Hessen",
+      "note": "BAMF catalog; Rhein (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 365,
+      "text_de": "Welche Stadt in Hessen ist bekannt für ihre Finanzindustrie?",
+      "options": {
+        "A": "Wiesbaden",
+        "B": "Frankfurt am Main",
+        "C": "Darmstadt",
+        "D": "Kassel"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Hessen",
+      "note": "BAMF catalog; Frankfurt is Germany’s financial hub."
+    },
+    {
+      "id": 366,
+      "text_de": "Welcher Fluss fließt durch Hessen?",
+      "options": {
+        "A": "Rhein",
+        "B": "Elbe",
+        "C": "Spree",
+        "D": "Weser"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Hessen",
+      "note": "BAMF catalog; Rhein is a major river in Hessen."
+    },
+    {
+      "id": 367,
+      "text_de": "Welches Gebirge liegt teilweise in Hessen?",
+      "options": {
+        "A": "Taunus",
+        "B": "Alpen",
+        "C": "Schwarzwald",
+        "D": "Erzgebirge"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Hessen",
+      "note": "BAMF catalog; Taunus is a key range in Hessen."
+    },
+    {
+      "id": 368,
+      "text_de": "Welche Universität in Hessen ist besonders bekannt?",
+      "options": {
+        "A": "Universität Frankfurt",
+        "B": "Universität Wiesbaden",
+        "C": "Universität Kassel",
+        "D": "Universität Darmstadt"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Hessen",
+      "note": "BAMF catalog; Goethe-Universität Frankfurt is renowned."
+    },
+    {
+      "id": 369,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Hessen?",
+      "options": {
+        "A": "Hessentag",
+        "B": "Oktoberfest",
+        "C": "Fasnet",
+        "D": "Berlinale"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Hessen",
+      "note": "BAMF catalog; Hessentag is a major cultural festival."
+    },
+    {
+      "id": 370,
+      "text_de": "Welches Bundesland grenzt an Hessen?",
+      "options": {
+        "A": "Bayern",
+        "B": "Berlin",
+        "C": "Bremen",
+        "D": "Saarland"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Hessen",
+      "note": "BAMF catalog; Bayern borders Hessen."
+    },
+    {
+      "id": 371,
+      "text_de": "Welches Bild zeigt das Wappen von Mecklenburg-Vorpommern?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "D",
+      "category": "Symbols",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "note": "BAMF catalog; Mecklenburg-Vorpommern’s wappen (bull and griffin) is typically Bild 4."
+    },
+    {
+      "id": 372,
+      "text_de": "Was ist die Hauptstadt von Mecklenburg-Vorpommern?",
+      "options": {
+        "A": "Rostock",
+        "B": "Schwerin",
+        "C": "Greifswald",
+        "D": "Stralsund"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "note": "BAMF catalog; Schwerin is the capital."
+    },
+    {
+      "id": 373,
+      "text_de": "Welches historische Ereignis ist mit Mecklenburg-Vorpommern verbunden?",
+      "options": {
+        "A": "Die Montagsdemonstrationen",
+        "B": "Die Gründung der DDR",
+        "C": "Die Hanse-Gründung",
+        "D": "Die Wiedervereinigung"
+      },
+      "correct_answer": "C",
+      "category": "History",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "note": "BAMF catalog; Rostock and Stralsund were Hanseatic cities."
+    },
+    {
+      "id": 374,
+      "text_de": "Wer ist der Ministerpräsident von Mecklenburg-Vorpommern?",
+      "options": {
+        "A": "Manuela Schwesig",
+        "B": "Erwin Sellering",
+        "C": "Dietmar Woidke",
+        "D": "Boris Rhein"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "note": "BAMF catalog; Schwesig (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 375,
+      "text_de": "Welche Stadt in Mecklenburg-Vorpommern ist bekannt für ihren Tourismus?",
+      "options": {
+        "A": "Schwerin",
+        "B": "Rostock",
+        "C": "Stralsund",
+        "D": "Wismar"
+      },
+      "correct_answer": "C",
+      "category": "Economy",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "note": "BAMF catalog; Stralsund is a UNESCO tourism hub."
+    },
+    {
+      "id": 376,
+      "text_de": "Welcher Fluss fließt durch Mecklenburg-Vorpommern?",
+      "options": {
+        "A": "Peene",
+        "B": "Rhein",
+        "C": "Elbe",
+        "D": "Spree"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "note": "BAMF catalog; Peene is a key river."
+    },
+    {
+      "id": 377,
+      "text_de": "Welches Wahrzeichen ist typisch für Mecklenburg-Vorpommern?",
+      "options": {
+        "A": "Schweriner Schloss",
+        "B": "Brandenburger Tor",
+        "C": "Kölner Dom",
+        "D": "Elbphilharmonie"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "note": "BAMF catalog; Schweriner Schloss is iconic."
+    },
+    {
+      "id": 378,
+      "text_de": "Welche Universität in Mecklenburg-Vorpommern ist besonders bekannt?",
+      "options": {
+        "A": "Universität Rostock",
+        "B": "Universität Schwerin",
+        "C": "Universität Stralsund",
+        "D": "Universität Wismar"
+      },
+      "correct_answer": "A",
+      "category": "Education",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "note": "BAMF catalog; Universität Rostock, founded 1419, is renowned."
+    },
+    {
+      "id": 379,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Mecklenburg-Vorpommern?",
+      "options": {
+        "A": "Hanse Sail",
+        "B": "Oktoberfest",
+        "C": "Hessentag",
+        "D": "Berlinale"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "note": "BAMF catalog; Hanse Sail in Rostock is a major maritime festival."
+    },
+    {
+      "id": 380,
+      "text_de": "Welches Bundesland grenzt an Mecklenburg-Vorpommern?",
+      "options": {
+        "A": "Brandenburg",
+        "B": "Bayern",
+        "C": "Hessen",
+        "D": "Saarland"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Mecklenburg-Vorpommern",
+      "note": "BAMF catalog; Brandenburg borders Mecklenburg-Vorpommern."
+    },
+    {
+      "id": 381,
+      "text_de": "Welches Bild zeigt das Wappen von Niedersachsen?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "A",
+      "category": "Symbols",
+      "bundesland": "Niedersachsen",
+      "note": "BAMF catalog; Niedersachsen’s wappen (horse) is typically Bild 1."
+    },
+    {
+      "id": 382,
+      "text_de": "Was ist die Hauptstadt von Niedersachsen?",
+      "options": {
+        "A": "Hannover",
+        "B": "Oldenburg",
+        "C": "Osnabrück",
+        "D": "Wolfsburg"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Niedersachsen",
+      "note": "BAMF catalog; Hannover is the capital."
+    },
+    {
+      "id": 383,
+      "text_de": "Welches historische Ereignis ist mit Niedersachsen verbunden?",
+      "options": {
+        "A": "Die Friedensverhandlungen von Osnabrück 1648",
+        "B": "Die Wiedervereinigung",
+        "C": "Die Räterepublik",
+        "D": "Der Mauerfall"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Niedersachsen",
+      "note": "BAMF catalog; Osnabrück was key in the Peace of Westphalia."
+    },
+    {
+      "id": 384,
+      "text_de": "Wer ist der Ministerpräsident von Niedersachsen?",
+      "options": {
+        "A": "Stephan Weil",
+        "B": "Boris Rhein",
+        "C": "Manuela Schwesig",
+        "D": "Markus Söder"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Niedersachsen",
+      "note": "BAMF catalog; Weil (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 385,
+      "text_de": "Welche Stadt in Niedersachsen ist bekannt für ihre Automobilindustrie?",
+      "options": {
+        "A": "Hannover",
+        "B": "Wolfsburg",
+        "C": "Oldenburg",
+        "D": "Osnabrück"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Niedersachsen",
+      "note": "BAMF catalog; Wolfsburg hosts Volkswagen."
+    },
+    {
+      "id": 386,
+      "text_de": "Welcher Fluss fließt durch Niedersachsen?",
+      "options": {
+        "A": "Weser",
+        "B": "Rhein",
+        "C": "Spree",
+        "D": "Elbe"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Niedersachsen",
+      "note": "BAMF catalog; Weser is a major river."
+    },
+    {
+      "id": 387,
+      "text_de": "Welches Wahrzeichen ist typisch für Niedersachsen?",
+      "options": {
+        "A": "Neues Rathaus Hannover",
+        "B": "Brandenburger Tor",
+        "C": "Schweriner Schloss",
+        "D": "Elbphilharmonie"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Niedersachsen",
+      "note": "BAMF catalog; Neues Rathaus is iconic."
+    },
+    {
+      "id": 388,
+      "text_de": "Welche Universität in Niedersachsen ist besonders bekannt?",
+      "options": {
+        "A": "Universität Hannover",
+        "B": "Universität Oldenburg",
+        "C": "Universität Göttingen",
+        "D": "Universität Osnabrück"
+      },
+      "correct_answer": "C",
+      "category": "Education",
+      "bundesland": "Niedersachsen",
+      "note": "BAMF catalog; Universität Göttingen is renowned."
+    },
+    {
+      "id": 389,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Niedersachsen?",
+      "options": {
+        "A": "Schützenfest Hannover",
+        "B": "Oktoberfest",
+        "C": "Hanse Sail",
+        "D": "Hessentag"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Niedersachsen",
+      "note": "BAMF catalog; Schützenfest is a major event."
+    },
+    {
+      "id": 390,
+      "text_de": "Welches Bundesland grenzt an Niedersachsen?",
+      "options": {
+        "A": "Hessen",
+        "B": "Bayern",
+        "C": "Berlin",
+        "D": "Saarland"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Niedersachsen",
+      "note": "BAMF catalog; Hessen borders Niedersachsen."
+    },
+    {
+      "id": 391,
+      "text_de": "Welches Bild zeigt das Wappen von Nordrhein-Westfalen?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "B",
+      "category": "Symbols",
+      "bundesland": "Nordrhein-Westfalen",
+      "note": "BAMF catalog; Nordrhein-Westfalen’s wappen (river and horse) is typically Bild 2."
+    },
+    {
+      "id": 392,
+      "text_de": "Was ist die Hauptstadt von Nordrhein-Westfalen?",
+      "options": {
+        "A": "Köln",
+        "B": "Düsseldorf",
+        "C": "Dortmund",
+        "D": "Bonn"
+      },
+      "correct_answer": "B",
+      "category": "Geography",
+      "bundesland": "Nordrhein-Westfalen",
+      "note": "BAMF catalog; Düsseldorf is the capital."
+    },
+    {
+      "id": 393,
+      "text_de": "Welches historische Ereignis ist mit Nordrhein-Westfalen verbunden?",
+      "options": {
+        "A": "Die Gründung der BRD in Bonn",
+        "B": "Die Wiedervereinigung",
+        "C": "Die Räterepublik",
+        "D": "Der Mauerfall"
+      },
+      "correct_answer": "A",
+      "category": "History",
+      "bundesland": "Nordrhein-Westfalen",
+      "note": "BAMF catalog; Bonn was BRD’s capital until 1990."
+    },
+    {
+      "id": 394,
+      "text_de": "Wer ist der Ministerpräsident von Nordrhein-Westfalen?",
+      "options": {
+        "A": "Hendrik Wüst",
+        "B": "Armin Laschet",
+        "C": "Stephan Weil",
+        "D": "Manuela Schwesig"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "Nordrhein-Westfalen",
+      "note": "BAMF catalog; Wüst (2023). Check 2025 elections for updates."
+    },
+    {
+      "id": 395,
+      "text_de": "Welche Stadt in Nordrhein-Westfalen ist bekannt für ihre Industrie?",
+      "options": {
+        "A": "Düsseldorf",
+        "B": "Essen",
+        "C": "Köln",
+        "D": "Bonn"
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "Nordrhein-Westfalen",
+      "note": "BAMF catalog; Essen is a Ruhrgebiet industrial hub."
+    },
+    {
+      "id": 396,
+      "text_de": "Welcher Fluss fließt durch Nordrhein-Westfalen?",
+      "options": {
+        "A": "Rhein",
+        "B": "Elbe",
+        "C": "Weser",
+        "D": "Spree"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Nordrhein-Westfalen",
+      "note": "BAMF catalog; Rhein is a major river."
+    },
+    {
+      "id": 397,
+      "text_de": "Welches Wahrzeichen ist typisch für Nordrhein-Westfalen?",
+      "options": {
+        "A": "Kölner Dom",
+        "B": "Brandenburger Tor",
+        "C": "Schweriner Schloss",
+        "D": "Elbphilharmonie"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Nordrhein-Westfalen",
+      "note": "BAMF catalog; Kölner Dom is a UNESCO site."
+    },
+    {
+      "id": 398,
+      "text_de": "Welche Universität in Nordrhein-Westfalen ist besonders bekannt?",
+      "options": {
+        "A": "Universität Köln",
+        "B": "Universität Düsseldorf",
+        "C": "Universität Essen",
+        "D": "Universität Bonn"
+      },
+      "correct_answer": "D",
+      "category": "Education",
+      "bundesland": "Nordrhein-Westfalen",
+      "note": "BAMF catalog; Universität Bonn is renowned."
+    },
+    {
+      "id": 399,
+      "text_de": "Welches kulturelle Ereignis ist typisch für Nordrhein-Westfalen?",
+      "options": {
+        "A": "Karneval Köln",
+        "B": "Oktoberfest",
+        "C": "Hanse Sail",
+        "D": "Hessentag"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "Nordrhein-Westfalen",
+      "note": "BAMF catalog; Karneval in Köln is a major event."
+    },
+    {
+      "id": 400,
+      "text_de": "Welches Bundesland grenzt an Nordrhein-Westfalen?",
+      "options": {
+        "A": "Hessen",
+        "B": "Bayern",
+        "C": "Berlin",
+        "D": "Bremen"
+      },
+      "correct_answer": "A",
+      "category": "Geography",
+      "bundesland": "Nordrhein-Westfalen",
+      "note": "BAMF catalog; Hessen borders Nordrhein-Westfalen."
     }
   ]
 }
