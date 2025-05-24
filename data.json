@@ -1399,6 +1399,705 @@
       "category": "Society",
       "bundesland": "General",
       "note": "BAMF catalog; Lebensversicherung is private, not statutory."
+    },
+    {
+      "id": 101,
+      "text_de": "Wie oft gibt es in Deutschland regulär Bundestagswahlen?",
+      "options": {
+        "A": "alle zwei Jahre",
+        "B": "alle drei Jahre",
+        "C": "alle vier Jahre",
+        "D": "alle fünf Jahre"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundestag elections occur every four years."
+    },
+    {
+      "id": 102,
+      "text_de": "Welche Parteien bilden die sogenannte 'Große Koalition' in Deutschland?",
+      "options": {
+        "A": "CDU/CSU und FDP",
+        "B": "SPD und Bündnis 90/Die Grünen",
+        "C": "CDU/CSU und SPD",
+        "D": "Die Linke und AfD"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Große Koalition is CDU/CSU and SPD, common in 2023 context."
+    },
+    {
+      "id": 103,
+      "text_de": "Welche Parteien gehören in Deutschland zur sogenannten 'Ampelkoalition'?",
+      "options": {
+        "A": "SPD, FDP und Bündnis 90/Die Grünen",
+        "B": "CDU/CSU, SPD und FDP",
+        "C": "AfD, Die Linke und Bündnis 90/Die Grünen",
+        "D": "SPD, CSU und Die Linke"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Ampelkoalition (2021–2025) is SPD, FDP, Grüne. May differ post-2025 election."
+    },
+    {
+      "id": 104,
+      "text_de": "Was ist in Deutschland die 'Kanzlerdemokratie'?",
+      "options": {
+        "A": "Die Bundeskanzlerin/der Bundeskanzler hat eine starke Stellung in der Regierung.",
+        "B": "Die Bürgerinnen/Bürger wählen die Bundeskanzlerin/den Bundeskanzler direkt.",
+        "C": "Die Bundeskanzlerin/der Bundeskanzler regiert ohne Parlament.",
+        "D": "Die Bundeskanzlerin/der Bundeskanzler wird vom Bundespräsidenten ernannt."
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Kanzlerdemokratie emphasizes Kanzler’s leadership role."
+    },
+    {
+      "id": 105,
+      "text_de": "Wer kontrolliert in Deutschland die Einhaltung der Grundrechte?",
+      "options": {
+        "A": "die Polizei",
+        "B": "das Bundesverfassungsgericht",
+        "C": "der Bundesrat",
+        "D": "die Bundesregierung"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesverfassungsgericht oversees Grundrechte."
+    },
+    {
+      "id": 106,
+      "text_de": "Was ist in Deutschland eine Aufgabe des Bundestages?",
+      "options": {
+        "A": "die Ernennung der Richterinnen/Richter des Bundesverfassungsgerichtes",
+        "B": "die Kontrolle der Bundesregierung",
+        "C": "die Wahl der Ministerinnen/Minister",
+        "D": "die Verwaltung der Bundesländer"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundestag oversees government."
+    },
+    {
+      "id": 107,
+      "text_de": "Was bedeutet in Deutschland der Begriff 'Föderalismus'?",
+      "options": {
+        "A": "Die Macht ist zentral bei der Bundesregierung.",
+        "B": "Die Bundesländer haben eigene Rechte und Kompetenzen.",
+        "C": "Die Kommunen bestimmen die Gesetze.",
+        "D": "Die Bürgerinnen/Bürger wählen direkt die Regierung."
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Föderalismus means state autonomy."
+    },
+    {
+      "id": 108,
+      "text_de": "Welches Gesetz regelt in Deutschland das Zusammenleben von Paaren gleichen Geschlechts?",
+      "options": {
+        "A": "Ehegesetz",
+        "B": "Lebenspartnerschaftsgesetz",
+        "C": "Gleichstellungsgesetz",
+        "D": "Familienrecht"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Lebenspartnerschaftsgesetz (pre-2017, now Ehe für alle)."
+    },
+    {
+      "id": 109,
+      "text_de": "Was ist in Deutschland eine Aufgabe der Kommunen?",
+      "options": {
+        "A": "Außenpolitik",
+        "B": "Müllentsorgung",
+        "C": "Verteidigung",
+        "D": "Währungspolitik"
+      },
+      "correct_answer": "B",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Müllentsorgung is a local task."
+    },
+    {
+      "id": 110,
+      "text_de": "Was bedeutet die Abkürzung AfD in Deutschland?",
+      "options": {
+        "A": "Alternative für Deutschland",
+        "B": "Allianz für Demokratie",
+        "C": "Aktive für Deutschland",
+        "D": "Allgemeine Freiheitsbewegung Deutschland"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; AfD is Alternative für Deutschland."
+    },
+    {
+      "id": 111,
+      "text_de": "Welche Aufgabe hat die deutsche Polizei nicht?",
+      "options": {
+        "A": "Verbrecher verfolgen",
+        "B": "Verkehrsüberwachung",
+        "C": "Gesetze erlassen",
+        "D": "öffentliche Sicherheit gewährleisten"
+      },
+      "correct_answer": "C",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Polizei doesn’t make laws."
+    },
+    {
+      "id": 112,
+      "text_de": "Was ist in Deutschland die Aufgabe des Bundesverfassungsgerichtes?",
+      "options": {
+        "A": "Strafgesetze erlassen",
+        "B": "Verfassungsbeschwerden prüfen",
+        "C": "Bundesministerinnen/Bundesminister ernennen",
+        "D": "Wahlen organisieren"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Verfassungsgericht reviews constitutional complaints."
+    },
+    {
+      "id": 113,
+      "text_de": "Wer in Deutschland Steuern nicht zahlt, obwohl er/sie steuerpflichtig ist, ...",
+      "options": {
+        "A": "macht sich strafbar.",
+        "B": "wird ins Ausland ausgewiesen.",
+        "C": "verliert das Wahlrecht.",
+        "D": "bekommt eine Sozialstrafe."
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Steuerhinterziehung is a crime."
+    },
+    {
+      "id": 114,
+      "text_de": "Was passiert in Deutschland, wenn jemand ein Gesetz nicht einhält?",
+      "options": {
+        "A": "Die Person wird sofort ausgewiesen.",
+        "B": "Die Person kann bestraft werden.",
+        "C": "Die Person verliert automatisch die Staatsbürgerschaft.",
+        "D": "Nichts passiert, wenn es niemand bemerkt."
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; lawbreaking can lead to punishment."
+    },
+    {
+      "id": 115,
+      "text_de": "Welches Gericht ist in Deutschland für Streitigkeiten zwischen Arbeitnehmern und Arbeitgebern zuständig?",
+      "options": {
+        "A": "Verwaltungsgericht",
+        "B": "Arbeitsgericht",
+        "C": "Sozialgericht",
+        "D": "Amtsgericht"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Arbeitsgericht handles labor disputes."
+    },
+    {
+      "id": 116,
+      "text_de": "Was ist in Deutschland eine Aufgabe des Finanzamtes?",
+      "options": {
+        "A": "Müllabfuhr organisieren",
+        "B": "Steuern erheben",
+        "C": "Schulen verwalten",
+        "D": "Wahlen durchführen"
+      },
+      "correct_answer": "B",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Finanzamt collects taxes."
+    },
+    {
+      "id": 117,
+      "text_de": "Was ist in Deutschland eine Aufgabe des Standesamtes?",
+      "options": {
+        "A": "Personalausweise ausstellen",
+        "B": "Eheschließungen registrieren",
+        "C": "Steuererklärungen prüfen",
+        "D": "Führerscheine ausgeben"
+'istitute": "B",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Standesamt registers marriages."
+    },
+    {
+      "id": 118,
+      "text_de": "Welcher Sportverein hat in Deutschland eine lange Tradition in der jüdischen Gemeinde?",
+      "options": {
+        "A": "Makkabi",
+        "B": "Hakoah",
+        "C": "Bar Kochba",
+        "D": "Kadima"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Makkabi is a prominent Jewish sports association."
+    },
+    {
+      "id": 119,
+      "text_de": "Was ist in Deutschland keine staatliche Aufgabe?",
+      "options": {
+        "A": "Bildung fördern",
+        "B": "Krankenversicherung anbieten",
+        "C": "Lebensmittel produzieren",
+        "D": "Soziale Sicherheit gewährleisten"
+      },
+      "correct_answer": "C",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; food production is private, not state."
+    },
+    {
+      "id": 120,
+      "text_de": "Welches Ministerium ist in Deutschland für die Außenpolitik zuständig?",
+      "options": {
+        "A": "Bundesministerium der Finanzen",
+        "B": "Auswärtiges Amt",
+        "C": "Bundesministerium der Verteidigung",
+        "D": "Bundesministerium des Innern"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Auswärtiges Amt handles foreign policy."
+    },
+    {
+      "id": 121,
+      "text_de": "Was ist in Deutschland die Aufgabe des Jugendamt?",
+      "options": {
+        "A": "Jugendliche bei der Jobsuche unterstützen",
+        "B": "Kinder und Jugendliche schützen",
+        "C": "Jugendliche bei der Schulwahl beraten",
+        "D": "Freizeitangebote für Jugendliche organisieren"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Jugendamt protects children and youth."
+    },
+    {
+      "id": 122,
+      "text_de": "Was ist in Deutschland eine Aufgabe des Gesundheitsamtes?",
+      "options": {
+        "A": "Krankenversicherungen verwalten",
+        "B": "Gesundheitsschutz und Krankheitsprävention",
+        "C": "Krankenhäuser bauen",
+        "D": "Ärzte ausbilden"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Gesundheitsamt focuses on public health."
+    },
+    {
+      "id": 123,
+      "text_de": "Welches Recht haben Arbeitnehmerinnen und Arbeitnehmer in Deutschland?",
+      "options": {
+        "A": "Recht auf Urlaub",
+        "B": "Recht auf kostenlose Wohnung",
+        "C": "Recht auf kostenlose Lebensmittel",
+        "D": "Recht auf Firmenwagen"
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Urlaubsrecht is statutory."
+    },
+    {
+      "id": 124,
+      "text_de": "Was ist in Deutschland ein Feiertag?",
+      "options": {
+        "A": "Valentinstag",
+        "B": "Tag der Deutschen Einheit",
+        "C": "Muttertag",
+        "D": "Halloween"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Tag der Deutschen Einheit is a public holiday."
+    },
+    {
+      "id": 125,
+      "text_de": "Was ist in Deutschland ein Brauchtum?",
+      "options": {
+        "A": "Oktoberfest",
+        "B": "Steuererklärung",
+        "C": "Wahlen",
+        "D": "Führerscheinprüfung"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Oktoberfest is a traditional custom."
+    },
+    {
+      "id": 126,
+      "text_de": "Was ist in Deutschland keine Pflicht für Bürgerinnen und Bürger?",
+      "options": {
+        "A": "Steuern zahlen",
+        "B": "Schulpflicht für Kinder",
+        "C": "Wahlpflicht",
+        "D": "Sozialversicherungsbeiträge zahlen"
+      },
+      "correct_answer": "C",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; voting is not mandatory."
+    },
+    {
+      "id": 127,
+      "text_de": "Welche Versicherung ist in Deutschland Pflicht für alle Bürger?",
+      "options": {
+        "A": "Haftpflichtversicherung",
+        "B": "Krankenversicherung",
+        "C": "Lebensversicherung",
+        "D": "Kfz-Versicherung"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Krankenversicherung is mandatory."
+    },
+    {
+      "id": 128,
+      "text_de": "Was ist in Deutschland eine Aufgabe der Bundesagentur für Arbeit?",
+      "options": {
+        "A": "Arbeitsplätze vermitteln",
+        "B": "Schulen verwalten",
+        "C": "Steuern erheben",
+        "D": "Gesetze erlassen"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesagentur für Arbeit supports job placement."
+    },
+    {
+      "id": 129,
+      "text_de": "Was ist in Deutschland ein Sozialstaat?",
+      "options": {
+        "A": "Ein Staat, der soziale Sicherheit und Unterstützung gewährleistet.",
+        "B": "Ein Staat, der nur soziale Projekte fördert.",
+        "C": "Ein Staat, der keine Steuern erhebt.",
+        "D": "Ein Staat, der nur soziale Berufe unterstützt."
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Sozialstaat ensures social security."
+    },
+    {
+      "id": 130,
+      "text_de": "Welches ist ein gültiger Stimmzettel bei einer Bundestagswahl in Deutschland?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; valid Stimmzettel has one clear mark, typically Bild 1."
+    },
+    {
+      "id": 131,
+      "text_de": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister ...",
+      "options": {
+        "A": "die Leiterin/der Leiter einer Schule.",
+        "B": "die Chefin/der Chef einer Bank.",
+        "C": "das Oberhaupt einer Gemeinde.",
+        "D": "die/der Vorsitzende einer Partei."
+      },
+      "correct_answer": "C",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bürgermeister leads a Gemeinde."
+    },
+    {
+      "id": 132,
+      "text_de": "In Deutschland versteht man unter dem Begriff 'Mitbestimmung' ...",
+      "options": {
+        "A": "das Recht der Arbeitnehmerinnen und Arbeitnehmer, in einem Betrieb mitzubestimmen.",
+        "B": "die Möglichkeit, bei einer Wahl mitzuentscheiden.",
+        "C": "das Recht, sich gegen Gesetze zu wehren.",
+        "D": "die Pflicht, Steuern zu zahlen."
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Mitbestimmung refers to workplace participation."
+    },
+    {
+      "id": 133,
+      "text_de": "Was ist in Deutschland ein Brauchtum?",
+      "options": {
+        "A": "eine Steuer",
+        "B": "eine traditionelle Gewohnheit",
+        "C": "ein Gesetz",
+        "D": "eine Wahl"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Brauchtum is a traditional custom."
+    },
+    {
+      "id": 134,
+      "text_de": "Welche Farben hat die deutsche Flagge?",
+      "options": {
+        "A": "schwarz-rot-gold",
+        "B": "rot-weiß-grün",
+        "C": "blau-weiß-rot",
+        "D": "grün-weiß-schwarz"
+      },
+      "correct_answer": "A",
+      "category": "Symbols",
+      "bundesland": "General",
+      "note": "BAMF catalog; German flag is black-red-gold."
+    },
+    {
+      "id": 135,
+      "text_de": "Welches Symbol ist auf der deutschen Euromünze abgebildet?",
+      "options": {
+        "A": "der Bundesadler",
+        "B": "das Brandenburger Tor",
+        "C": "der Reichstag",
+        "D": "die deutsche Flagge"
+      },
+      "correct_answer": "A",
+      "category": "Symbols",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesadler is on German euro coins."
+    },
+    {
+      "id": 136,
+      "text_de": "Was ist in Deutschland eine Aufgabe der Polizei?",
+      "options": {
+        "A": "Gesetze zu erlassen",
+        "B": "die öffentliche Sicherheit zu gewährleisten",
+        "C": "Steuern zu erheben",
+        "D": "Schulen zu verwalten"
+      },
+      "correct_answer": "B",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Polizei ensures public safety."
+    },
+    {
+      "id": 137,
+      "text_de": "Welches Gericht entscheidet über Streitigkeiten zwischen Arbeitgeber und Arbeitnehmer in Deutschland?",
+      "options": {
+        "A": "Verwaltungsgericht",
+        "B": "Arbeitsgericht",
+        "C": "Sozialgericht",
+        "D": "Amtsgericht"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Arbeitsgericht, same as Aufgabe 115."
+    },
+    {
+      "id": 138,
+      "text_de": "Was ist in Deutschland ein Feiertag?",
+      "options": {
+        "A": "Neujahr",
+        "B": "Valentinstag",
+        "C": "Muttertag",
+        "D": "Halloween"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Neujahr is a public holiday."
+    },
+    {
+      "id": 139,
+      "text_de": "Wer in Deutschland ein neues Gesetz will, muss ...",
+      "options": {
+        "A": "den Vorschlag im Bundesrat einbringen.",
+        "B": "sich direkt an das Verfassungsgericht wenden.",
+        "C": "den Vorschlag im Bundestag einbringen.",
+        "D": "eine Petition an die Bundeskanzlerin/den Bundeskanzler richten."
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; laws are proposed in Bundestag."
+    },
+    {
+      "id": 140,
+      "text_de": "Welches Recht schützt die Privatsphäre in Deutschland?",
+      "options": {
+        "A": "Recht auf informationelle Selbstbestimmung",
+        "B": "Recht auf freie Berufswahl",
+        "C": "Recht auf Eigentum",
+        "D": "Recht auf Versammlung"
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; informationelle Selbstbestimmung protects privacy."
+    },
+    {
+      "id": 141,
+      "text_de": "Was ist in Deutschland die Aufgabe des Bundeskanzleramtes?",
+      "options": {
+        "A": "Die Bundesregierung koordinieren",
+        "B": "Wahlen organisieren",
+        "C": "Steuern erheben",
+        "D": "Schulen verwalten"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundeskanzleramt coordinates government."
+    },
+    {
+      "id": 142,
+      "text_de": "Was ist in Deutschland ein Sozialversicherungssystem?",
+      "options": {
+        "A": "Autoversicherung",
+        "B": "Rentenversicherung",
+        "C": "Hausratsversicherung",
+        "D": "Reiseversicherung"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Rentenversicherung is part of social insurance."
+    },
+    {
+      "id": 143,
+      "text_de": "Was ist in Deutschland eine Aufgabe der Bundesländer?",
+      "options": {
+        "A": "Außenpolitik",
+        "B": "Verteidigung",
+        "C": "Bildung",
+        "D": "Währungspolitik"
+      },
+      "correct_answer": "C",
+      "category": "Education",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bildung is a state responsibility."
+    },
+    {
+      "id": 144,
+      "text_de": "Was ist in Deutschland ein Merkmal der Demokratie?",
+      "options": {
+        "A": "Zensur der Presse",
+        "B": "Eine Partei regiert allein",
+        "C": "Freie und geheime Wahlen",
+        "D": "Wahlen sind verpflichtend"
+      },
+      "correct_answer": "C",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; free and secret elections define democracy."
+    },
+    {
+      "id": 145,
+      "text_de": "Was ist in Deutschland ein Grundrecht?",
+      "options": {
+        "A": "Recht auf kostenlose Bildung",
+        "B": "Recht auf Versammlungsfreiheit",
+        "C": "Recht auf kostenlose Wohnung",
+        "D": "Recht auf Arbeit"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Versammlungsfreiheit is in Article 8."
+    },
+    {
+      "id": 146,
+      "text_de": "Was ist in Deutschland eine Aufgabe des Auswärtigen Amtes?",
+      "options": {
+        "A": "Innenpolitik",
+        "B": "Außenpolitik",
+        "C": "Finanzpolitik",
+        "D": "Bildungspolitik"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; same as Aufgabe 120, Auswärtiges Amt handles foreign policy."
+    },
+    {
+      "id": 147,
+      "text_de": "Was ist in Deutschland ein Merkmal eines Rechtsstaates?",
+      "options": {
+        "A": "Der Staat kann Gesetze ignorieren.",
+        "B": "Bürger müssen Gesetze einhalten, der Staat nicht.",
+        "C": "Alle sind vor dem Gesetz gleich.",
+        "D": "Nur Politiker müssen Gesetze einhalten."
+      },
+      "correct_answer": "C",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; equality before the law is key."
+    },
+    {
+      "id": 148,
+      "text_de": "Was ist in Deutschland eine Aufgabe der Bundesregierung?",
+      "options": {
+        "A": "Schulen verwalten",
+        "B": "Gesetze umsetzen",
+        "C": "Kommunalpolitik betreiben",
+        "D": "Wahlen organisieren"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesregierung implements laws."
+    },
+    {
+      "id": 149,
+      "text_de": "Was ist in Deutschland ein Merkmal der Gewaltenteilung?",
+      "options": {
+        "A": "Der Bundestag macht die Gesetze, die Regierung führt sie aus, die Gerichte überwachen sie.",
+        "B": "Die Regierung macht und führt die Gesetze aus.",
+        "C": "Die Gerichte machen die Gesetze.",
+        "D": "Der Bundesrat führt die Gesetze aus."
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Gewaltenteilung splits legislative, executive, judicial powers."
+    },
+    {
+      "id": 150,
+      "text_de": "Was ist in Deutschland ein Ziel der Sozialen Marktwirtschaft?",
+      "options": {
+        "A": "Alle Bürger haben das gleiche Einkommen.",
+        "B": "Wirtschaftlicher Wettbewerb und soziale Absicherung.",
+        "C": "Der Staat kontrolliert alle Unternehmen.",
+        "D": "Es gibt keine Steuern."
+      },
+      "correct_answer": "B",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Soziale Marktwirtschaft balances competition and welfare."
     }
   ]
 }
