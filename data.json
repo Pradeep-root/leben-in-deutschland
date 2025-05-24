@@ -3499,6 +3499,706 @@
       "category": "Society",
       "bundesland": "General",
       "note": "BAMF catalog; Sozialpolitik promotes social justice."
+    },
+    {
+      "id": 251,
+      "text_de": "Was ist die 'Deutsche Welle'?",
+      "options": {
+        "A": "Ein deutscher Radiosender",
+        "B": "Der internationale Rundfunk der BRD",
+        "C": "Eine politische Partei",
+        "D": "Eine Sportorganisation"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Deutsche Welle is Germany’s international broadcaster."
+    },
+    {
+      "id": 252,
+      "text_de": "Was ist das 'Goethe-Institut'?",
+      "options": {
+        "A": "Eine Wirtschaftsorganisation",
+        "B": "Eine Institution zur Förderung der deutschen Sprache und Kultur",
+        "C": "Ein Sportverband",
+        "D": "Ein Militärinstitut"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Goethe-Institut promotes German language and culture."
+    },
+    {
+      "id": 253,
+      "text_de": "Wer ist der Bundeskanzler/die Bundeskanzlerin Deutschlands?",
+      "options": {
+        "A": "Angela Merkel",
+        "B": "Olaf Scholz",
+        "C": "Gerhard Schröder",
+        "D": "Helmut Kohl"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Olaf Scholz (2021–2025). Post-2025, Friedrich Merz possible."
+    },
+    {
+      "id": 254,
+      "text_de": "Was ist das 'Bundesverfassungsgericht'?",
+      "options": {
+        "A": "Ein Gericht für Strafsachen",
+        "B": "Das höchste Gericht für Verfassungsfragen",
+        "C": "Ein Wirtschaftsgericht",
+        "D": "Ein Sportgericht"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesverfassungsgericht handles constitutional issues."
+    },
+    {
+      "id": 255,
+      "text_de": "Was ist das 'Grundgesetz'?",
+      "options": {
+        "A": "Ein Wirtschaftsgesetz",
+        "B": "Die Verfassung der BRD",
+        "C": "Ein Strafgesetzbuch",
+        "D": "Ein Sportregelwerk"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Grundgesetz is BRD’s constitution."
+    },
+    {
+      "id": 256,
+      "text_de": "Wann wurde das Grundgesetz eingeführt?",
+      "options": {
+        "A": "1919",
+        "B": "1933",
+        "C": "1949",
+        "D": "1990"
+      },
+      "correct_answer": "C",
+      "category": "History",
+      "bundesland": "General",
+      "note": "BAMF catalog; Grundgesetz enacted May 23, 1949."
+    },
+    {
+      "id": 257,
+      "text_de": "Was ist die 'Menschenwürde' im Grundgesetz?",
+      "options": {
+        "A": "Ein Steuergesetz",
+        "B": "Ein unverletzliches Grundrecht",
+        "C": "Ein Wirtschaftsprinzip",
+        "D": "Ein Sportprinzip"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Menschenwürde is protected under Article 1."
+    },
+    {
+      "id": 258,
+      "text_de": "Was ist die 'Gleichheit vor dem Gesetz'?",
+      "options": {
+        "A": "Alle zahlen die gleichen Steuern",
+        "B": "Alle haben die gleichen Rechte vor Gericht",
+        "C": "Alle haben den gleichen Beruf",
+        "D": "Alle haben das gleiche Einkommen"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Article 3 ensures legal equality."
+    },
+    {
+      "id": 259,
+      "text_de": "Was ist die 'Pressefreiheit' in Deutschland?",
+      "options": {
+        "A": "Das Recht, Steuern zu vermeiden",
+        "B": "Das Recht der Medien, frei zu berichten",
+        "C": "Das Recht, überall zu wählen",
+        "D": "Das Recht, überall zu arbeiten"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Pressefreiheit is protected under Article 5."
+    },
+    {
+      "id": 260,
+      "text_de": "Welches Bild zeigt den Bundesadler?",
+      "options": {
+        "A": "Bild 1",
+        "B": "Bild 2",
+        "C": "Bild 3",
+        "D": "Bild 4"
+      },
+      "correct_answer": "A",
+      "category": "Symbols",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesadler is typically Bild 1."
+    },
+    {
+      "id": 261,
+      "text_de": "Was ist die 'Religionsfreiheit' in Deutschland?",
+      "options": {
+        "A": "Das Recht, Steuern zu zahlen",
+        "B": "Das Recht, die eigene Religion frei auszuüben",
+        "C": "Das Recht, überall zu arbeiten",
+        "D": "Das Recht, überall zu wählen"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Religionsfreiheit is in Article 4."
+    },
+    {
+      "id": 262,
+      "text_de": "Was ist die 'Versammlungsfreiheit' in Deutschland?",
+      "options": {
+        "A": "Das Recht, sich friedlich zu versammeln",
+        "B": "Das Recht, Steuern zu zahlen",
+        "C": "Das Recht, überall zu arbeiten",
+        "D": "Das Recht, überall zu wählen"
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Versammlungsfreiheit is in Article 8."
+    },
+    {
+      "id": 263,
+      "text_de": "Was ist die 'Meinungsfreiheit' in Deutschland?",
+      "options": {
+        "A": "Das Recht, die eigene Meinung frei zu äußern",
+        "B": "Das Recht, Steuern zu zahlen",
+        "C": "Das Recht, überall zu arbeiten",
+        "D": "Das Recht, überall zu wählen"
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Meinungsfreiheit is in Article 5."
+    },
+    {
+      "id": 264,
+      "text_de": "Was ist die 'Berufsfreiheit' in Deutschland?",
+      "options": {
+        "A": "Das Recht, Steuern zu zahlen",
+        "B": "Das Recht, den Beruf frei zu wählen",
+        "C": "Das Recht, überall zu wählen",
+        "D": "Das Recht, überall zu reisen"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Berufsfreiheit is in Article 12."
+    },
+    {
+      "id": 265,
+      "text_de": "Was ist die 'Eigentumsfreiheit' in Deutschland?",
+      "options": {
+        "A": "Das Recht, Eigentum zu besitzen und zu nutzen",
+        "B": "Das Recht, Steuern zu zahlen",
+        "C": "Das Recht, überall zu wählen",
+        "D": "Das Recht, überall zu arbeiten"
+      },
+      "correct_answer": "A",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Eigentumsfreiheit is in Article 14."
+    },
+    {
+      "id": 266,
+      "text_de": "Was ist die 'Unverletzlichkeit der Wohnung' in Deutschland?",
+      "options": {
+        "A": "Das Recht, Steuern zu zahlen",
+        "B": "Das Recht, dass die Wohnung nicht ohne Grund durchsucht werden darf",
+        "C": "Das Recht, überall zu wählen",
+        "D": "Das Recht, überall zu arbeiten"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Protected under Article 13."
+    },
+    {
+      "id": 267,
+      "text_de": "Was ist die 'Gewerkschaftsfreiheit' in Deutschland?",
+      "options": {
+        "A": "Das Recht, Steuern zu zahlen",
+        "B": "Das Recht, Gewerkschaften zu gründen und beizutreten",
+        "C": "Das Recht, überall zu wählen",
+        "D": "Das Recht, überall zu arbeiten"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Gewerkschaftsfreiheit is in Article 9."
+    },
+    {
+      "id": 268,
+      "text_de": "Was ist die 'Koalitionsfreiheit' in Deutschland?",
+      "options": {
+        "A": "Das Recht, politische Parteien zu gründen",
+        "B": "Das Recht, sich zu Vereinigungen zusammenzuschließen",
+        "C": "Das Recht, Steuern zu zahlen",
+        "D": "Das Recht, überall zu wählen"
+      },
+      "correct_answer": "B",
+      "category": "Constitution",
+      "bundesland": "General",
+      "note": "BAMF catalog; Koalitionsfreiheit is in Article 9."
+    },
+    {
+      "id": 269,
+      "text_de": "Was ist die 'Asylpolitik' in Deutschland?",
+      "options": {
+        "A": "Das Recht, überall zu arbeiten",
+        "B": "Die Regelung für die Aufnahme von politisch Verfolgten",
+        "C": "Das Recht, Steuern zu zahlen",
+        "D": "Das Recht, überall zu wählen"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Asylpolitik is in Article 16a."
+    },
+    {
+      "id": 270,
+      "text_de": "Welche Parteien bilden die 'Jamaika-Koalition' in Deutschland?",
+      "options": {
+        "A": "CDU/CSU, FDP, Bündnis 90/Die Grünen",
+        "B": "SPD, Die Linke, Bündnis 90/Die Grünen",
+        "C": "CDU/CSU, SPD, AfD",
+        "D": "FDP, AfD, Die Linke"
+      },
+      "correct_answer": "A",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Jamaika-Koalition is CDU/CSU, FDP, Grüne."
+    },
+    {
+      "id": 271,
+      "text_de": "Was ist die 'Schulpflicht' in Deutschland?",
+      "options": {
+        "A": "Das Recht, überall zu arbeiten",
+        "B": "Die Pflicht, Kinder zur Schule zu schicken",
+        "C": "Das Recht, Steuern zu zahlen",
+        "D": "Das Recht, überall zu wählen"
+      },
+      "correct_answer": "B",
+      "category": "Education",
+      "bundesland": "General",
+      "note": "BAMF catalog; Schulpflicht is mandatory education."
+    },
+    {
+      "id": 272,
+      "text_de": "Was ist die 'Wehrpflicht' in Deutschland?",
+      "options": {
+        "A": "Die Pflicht, Steuern zu zahlen",
+        "B": "Die Pflicht zum Militärdienst (ausgesetzt)",
+        "C": "Das Recht, überall zu wählen",
+        "D": "Das Recht, überall zu arbeiten"
+      },
+      "correct_answer": "B",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Wehrpflicht suspended since 2011."
+    },
+    {
+      "id": 273,
+      "text_de": "Was ist der 'Zivildienst' in Deutschland?",
+      "options": {
+        "A": "Ein freiwilliger Militärdienst",
+        "B": "Ein alternativer Dienst zum Wehrdienst (ausgesetzt)",
+        "C": "Das Recht, überall zu wählen",
+        "D": "Das Recht, überall zu arbeiten"
+      },
+      "correct_answer": "B",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Zivildienst was an alternative to military service."
+    },
+    {
+      "id": 274,
+      "text_de": "Was ist die 'Bundeswehr'?",
+      "options": {
+        "A": "Die Polizei Deutschlands",
+        "B": "Die Streitkräfte Deutschlands",
+        "C": "Eine Wirtschaftsorganisation",
+        "D": "Eine Sportorganisation"
+      },
+      "correct_answer": "B",
+      "category": "Politics",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundeswehr is Germany’s military."
+    },
+    {
+      "id": 275,
+      "text_de": "Was ist die 'Bundespolizei'?",
+      "options": {
+        "A": "Die Polizei der Bundesländer",
+        "B": "Die Polizei für bundesweite Aufgaben",
+        "C": "Eine Wirtschaftsorganisation",
+        "D": "Eine Sportorganisation"
+      },
+      "correct_answer": "B",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundespolizei handles federal tasks."
+    },
+    {
+      "id": 276,
+      "text_de": "Was ist das 'Bundeskriminalamt' (BKA)?",
+      "options": {
+        "A": "Eine Wirtschaftsbehörde",
+        "B": "Die Behörde für schwere Kriminalität",
+        "C": "Eine Sportorganisation",
+        "D": "Eine Kulturbehörde"
+      },
+      "correct_answer": "B",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; BKA investigates serious crimes."
+    },
+    {
+      "id": 277,
+      "text_de": "Was ist das 'Bundesverwaltungsgericht'?",
+      "options": {
+        "A": "Ein Gericht für Verwaltungsstreitigkeiten",
+        "B": "Ein Wirtschaftsgericht",
+        "C": "Ein Sportgericht",
+        "D": "Ein Kulturgericht"
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesverwaltungsgericht handles administrative cases."
+    },
+    {
+      "id": 278,
+      "text_de": "Was ist das 'Bundesarbeitsgericht'?",
+      "options": {
+        "A": "Ein Gericht für Arbeitsstreitigkeiten",
+        "B": "Ein Wirtschaftsgericht",
+        "C": "Ein Sportgericht",
+        "D": "Ein Kulturgericht"
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesarbeitsgericht handles labor disputes."
+    },
+    {
+      "id": 279,
+      "text_de": "Was ist das 'Bundessozialgericht'?",
+      "options": {
+        "A": "Ein Gericht für soziale Streitigkeiten",
+        "B": "Ein Wirtschaftsgericht",
+        "C": "Ein Sportgericht",
+        "D": "Ein Kulturgericht"
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundessozialgericht handles social security cases."
+    },
+    {
+      "id": 280,
+      "text_de": "Was ist das 'Bundesfinanzhof'?",
+      "options": {
+        "A": "Ein Gericht für Steuer- und Zollsachen",
+        "B": "Ein Wirtschaftsgericht",
+        "C": "Ein Sportgericht",
+        "D": "Ein Kulturgericht"
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesfinanzhof handles tax cases."
+    },
+    {
+      "id": 281,
+      "text_de": "Was ist das 'Bundespatentgericht'?",
+      "options": {
+        "A": "Ein Gericht für Patentstreitigkeiten",
+        "B": "Ein Wirtschaftsgericht",
+        "C": "Ein Sportgericht",
+        "D": "Ein Kulturgericht"
+      },
+      "correct_answer": "A",
+      "category": "Law",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundespatentgericht handles patent disputes."
+    },
+    {
+      "id": 282,
+      "text_de": "Was ist die 'Bundesbank'?",
+      "options": {
+        "A": "Die Zentralbank Deutschlands",
+        "B": "Eine Sportorganisation",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesbank is Germany’s central bank."
+    },
+    {
+      "id": 283,
+      "text_de": "Was ist die 'Bundesnetzagentur'?",
+      "options": {
+        "A": "Eine Behörde für Netzwerke wie Strom und Telekommunikation",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Bundesnetzagentur regulates networks."
+    },
+    {
+      "id": 284,
+      "text_de": "Was ist die 'Bundesagentur für Arbeit'?",
+      "options": {
+        "A": "Eine Behörde für Arbeitsvermittlung und Arbeitslosenunterstützung",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Supports job placement and unemployment benefits."
+    },
+    {
+      "id": 285,
+      "text_de": "Was ist die 'Bundesanstalt für Arbeitsschutz'?",
+      "options": {
+        "A": "Eine Behörde für Sicherheit am Arbeitsplatz",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Ensures workplace safety."
+    },
+    {
+      "id": 286,
+      "text_de": "Was ist die 'Bundesanstalt für Finanzdienstleistungsaufsicht' (BaFin)?",
+      "options": {
+        "A": "Eine Behörde für Finanzmarktaufsicht",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; BaFin oversees financial markets."
+    },
+    {
+      "id": 287,
+      "text_de": "Was ist die 'Bundesanstalt für Straßenwesen'?",
+      "options": {
+        "A": "Eine Behörde für Straßenbau und Verkehrssicherheit",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Oversees road safety and infrastructure."
+    },
+    {
+      "id": 288,
+      "text_de": "Was ist die 'Bundesanstalt für Geowissenschaften'?",
+      "options": {
+        "A": "Eine Behörde für geologische Forschung",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Conducts geological research."
+    },
+    {
+      "id": 289,
+      "text_de": "Was ist die 'Bundesanstalt für Landwirtschaft und Ernährung'?",
+      "options": {
+        "A": "Eine Behörde für Landwirtschaft und Lebensmittelsicherheit",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Oversees agriculture and food safety."
+    },
+    {
+      "id": 290,
+      "text_de": "Was ist die 'Bundesanstalt für Post und Telekommunikation'?",
+      "options": {
+        "A": "Eine Behörde für Post- und Telekommunikationsdienste",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Manages postal and telecom services."
+    },
+    {
+      "id": 291,
+      "text_de": "Was ist die 'Bundesanstalt für Immobilienaufgaben'?",
+      "options": {
+        "A": "Eine Behörde für staatliches Immobilienmanagement",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Manages federal real estate."
+    },
+    {
+      "id": 292,
+      "text_de": "Was ist die 'Bundesanstalt für Arbeitsschutz und Arbeitsmedizin'?",
+      "options": {
+        "A": "Eine Behörde für Arbeitsschutz und Gesundheit",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Promotes workplace safety and health."
+    },
+    {
+      "id": 293,
+      "text_de": "Was ist die 'Bundesanstalt für Bergbau'?",
+      "options": {
+        "A": "Eine Behörde für Bergbau und Rohstoffe",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Economy",
+      "bundesland": "General",
+      "note": "BAMF catalog; Oversees mining and resources."
+    },
+    {
+      "id": 294,
+      "text_de": "Was ist die 'Bundesanstalt für Wasserbau'?",
+      "options": {
+        "A": "Eine Behörde für Wasserbau und Küstenschutz",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Manages water and coastal infrastructure."
+    },
+    {
+      "id": 295,
+      "text_de": "Was ist die 'Bundesanstalt für Hydrologie'?",
+      "options": {
+        "A": "Eine Behörde für Wasserforschung",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Conducts hydrological research."
+    },
+    {
+      "id": 296,
+      "text_de": "Was ist die 'Bundesanstalt für Seeschifffahrt'?",
+      "options": {
+        "A": "Eine Behörde für Seeschifffahrt und Sicherheit",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Oversees maritime safety."
+    },
+    {
+      "id": 297,
+      "text_de": "Was ist die 'Bundesanstalt für Luftfahrt'?",
+      "options": {
+        "A": "Eine Behörde für Luftfahrt und Sicherheit",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Manages aviation safety."
+    },
+    {
+      "id": 298,
+      "text_de": "Was ist die 'Bundesanstalt für Eisenbahn'?",
+      "options": {
+        "A": "Eine Behörde für Eisenbahn und Sicherheit",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Oversees railway safety."
+    },
+    {
+      "id": 299,
+      "text_de": "Was ist die 'Bundesanstalt für Statistik'?",
+      "options": {
+        "A": "Eine Behörde für statistische Daten",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Administration",
+      "bundesland": "General",
+      "note": "BAMF catalog; Statistisches Bundesamt collects data."
+    },
+    {
+      "id": 300,
+      "text_de": "Was ist die 'Bundesanstalt für Umwelt'?",
+      "options": {
+        "A": "Eine Behörde für Umwelt- und Naturschutz",
+        "B": "Eine Sportbehörde",
+        "C": "Eine Kulturbehörde",
+        "D": "Eine Polizei"
+      },
+      "correct_answer": "A",
+      "category": "Society",
+      "bundesland": "General",
+      "note": "BAMF catalog; Umweltbundesamt protects environment."
     }
   ]
 }
